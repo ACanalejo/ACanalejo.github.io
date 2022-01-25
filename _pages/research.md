@@ -1,12 +1,12 @@
 ---
-title: ""
+title: "Research"
 permalink: /research/
 author_profile: true
 ---
 
 Here you can find detailed information about what I am currently working on.
 
-# Working papers
+## Working papers
 
 ### Canalejo-Molero, Álvaro. Does new party entry increase electoral turnout? Quasi-experimental evidence from the 2015 Spanish local elections
 <details>
@@ -21,7 +21,7 @@ Models of spatial voting and mobilization theory often imply that a larger numbe
 <br>
 
 
-# Work in progess
+## Work in progess
 
 ### Canalejo-Molero, Álvaro. Does parliamentary entry increase satisfaction with democracy? Comparative evidence from a three-fold study
 <details>

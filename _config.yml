@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Álvaro Canalejo-Molero"
+  name             : "Canalejo-Molero, Álvaro"
   avatar           : "profile.png"
   bio              : "PhD candidate in Political Science"
-  location         : "Florence, Italy"
-  employer         : "European University Institute"
+  location         : "European University Institute, Florence, Italy"
+  employer         : 
   pubmed           : 
   googlescholar    : 
   email            : "alvaro.canalejo@eui.eu"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/ACanalejo"
+  github           : "ACanalejo"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/CanalejoAlvaro"
+  twitter          : "@CanalejoAlvaro"
   vine             :
   weibo            :
   xing             :

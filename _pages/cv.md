@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-Here you can download the [latest version of my CV](https://github.com/ACanalejo/curriculum_vitae/blob/main/long_cv/long_cv_canalejo.pdf).
+Here you can download the [latest version of my CV](https://github.com/ACanalejo/curriculum_vitae/raw/main/long_cv/long_cv_canalejo.pdf).

@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Canalejo-Molero, Álvaro"
+  name             : "Álvaro<br>Canalejo-Molero"
   avatar           : "profile.png"
-  bio              : "PhD candidate in Political Science"
-  location         : "European University Institute, Florence, Italy"
-  employer         : 
+  bio              : "PhD candidate in Political and Social Sciences"
+  location         : "European University Institute"
+  employer         : "Florence, Italy"
   pubmed           : 
   googlescholar    : 
   email            : "alvaro.canalejo@eui.eu"

@@ -21,7 +21,7 @@ Models of spatial voting and mobilization theory often imply that a larger numbe
 <br>
 
 
-## Work in progess
+## Work in progress
 
 ### Canalejo-Molero, Álvaro. Does parliamentary entry increase satisfaction with democracy? Comparative evidence from a three-fold study
 <details>

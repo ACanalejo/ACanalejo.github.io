@@ -6,9 +6,9 @@ author_profile: true
 
 Here you can find detailed information about what I am currently working on.
 
-<span style="color:#454545"> # Working papers </span>
+# Working papers
 
-## Canalejo-Molero, Álvaro. Does new party entry increase electoral turnout? Quasi-experimental evidence from the 2015 Spanish local elections
+### Canalejo-Molero, Álvaro. Does new party entry increase electoral turnout? Quasi-experimental evidence from the 2015 Spanish local elections
 <details>
 
 <summary>Read more</summary>
@@ -21,9 +21,9 @@ Models of spatial voting and mobilization theory often imply that a larger numbe
 <br>
 
 
-<span style="color:#454545"> # Work in progess </span>
+# Work in progess
 
-## Canalejo-Molero, Álvaro. Does parliamentary entry increase satisfaction with democracy? Comparative evidence from a three-fold study
+### Canalejo-Molero, Álvaro. Does parliamentary entry increase satisfaction with democracy? Comparative evidence from a three-fold study
 <details>
 
 <summary>Read more</summary>
@@ -34,7 +34,7 @@ While extensive evidence confirms that winning an election increases satisfactio
 <br>
 
 
-## Canalejo-Molero, Álvaro. 'Braining Hearts' The Role of Electoral Experience on Ideological Moderation
+### Canalejo-Molero, Álvaro. 'Braining Hearts' The Role of Electoral Experience on Ideological Moderation
 <details>
 
 <summary>Read more</summary>

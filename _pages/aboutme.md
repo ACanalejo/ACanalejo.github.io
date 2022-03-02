@@ -11,7 +11,7 @@ My research looks at the intersection of party politics, public opinion and poli
 
 My work has a strongly quantitative approach, with particular emphasis on causal inference designs. Lately, I've become increasingly interested in computational methods applied to social sciences.
 
-I also have a broad interest in political socialization and digital politics.
+I also have a broad interest in political socialization and comparative party systems.
 
 Please, do not hesitate to [contact me](mailto:alvaro.canalejo@eui.eu) for any inquiry or research proposal!
 

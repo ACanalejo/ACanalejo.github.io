@@ -9,9 +9,6 @@ Here you can find detailed information about what I am currently working on.
 ## Working papers
 
 ### Does New Party Entry Increase Electoral Turnout? Quasi-experimental Evidence from the 2015 Spanish Local Elections.
-<br>
-<i>Draft available upon request</i>.
-
 <details>
 
 <summary>Read more</summary>
@@ -20,14 +17,12 @@ Models of spatial voting and mobilization theory often imply that a larger numbe
 
 </details>
 <br>
-
+<i>Draft available upon request</i>.
+<br>
 
 ## Work in progress
 
 ### Does Parliamentary Entry Increase Satisfaction with Democracy? Comparative Evidence from a Three-fold Study.
-<br>
-<i>The experiment of the third study is embedded in [this project](https://github.com/ACanalejo/ACanalejo.github.io/blob/master/_drafts/french_survey_2022_pap.pdf) </i>.
-
 <details>
 
 <summary>Read more</summary>
@@ -36,7 +31,20 @@ While extensive evidence confirms that winning an election increases satisfactio
 
 </details>
 <br>
+<i>The experiment of the third study is embedded in [this project](https://github.com/ACanalejo/ACanalejo.github.io/blob/master/_drafts/french_survey_2022_pap.pdf) </i>.
+<br>
 
+### Fragmented Party Offer, Vote Choice and Attitude Change: a Study on Right-wing Voters in the 2022 French Presidential Elections. <i>With Morgan Le Corre Juratic</i>.
+<details>
+
+<summary>Read more</summary>
+
+How does new party entry affect citizens’ electoral behavior? Does this new party electoral fortune affect citizens’ democratic attitudes? This project links both questions by analyzing the attitudinal correlates of new party voting and the effect of electoral results on democratic support and polarization when a new party irrupts the electoral scenario. Using a novel methodological approach, we leverage the unique natural setting of the 2022 French presidential election, where a new far-right challenger (the novel candidate Éric Zemmour) is likely to obtain sizeable electoral support and where three opposition parties are as likely to pass to the second round. We use the Facebook advertisement system (FAM) to recruit and survey potential far right-wing voters before and after the 1st round of the election. The contribution of this panel study is two-fold. First, the pre-electoral wave aims to disentangle the correlates of turnout and new party voting when more than one viable options are available within the same ideological space. This sheds new light on the causes of new party voting by holding strategic considerations and the electoral supply constant. Second, the post-electoral wave permits to assess the effect of the first round electoral outcome on satisfaction with democracy (SWD), especially for new and old party supporters. This project thus hopes to provide new insights on the consequences of a widespread phenomenon in current party systems, new party entry, on two key features of representative democracies.
+
+</details>
+<br>
+<i>The pre-analysis plan is pending moderation in EGAP. You can download the non pre-registered version [here](https://github.com/ACanalejo/ACanalejo.github.io/blob/master/_drafts/french_survey_2022_pap.pdf) </i>.
+<br>
 
 ### 'Braining Hearts' The Role of Electoral Experience on Ideological Moderation.
 <details>
@@ -44,19 +52,6 @@ While extensive evidence confirms that winning an election increases satisfactio
 <summary>Read more</summary>
 
 Empirical evidence from the US and Europe confirms the conventional wisdom that people become more conservative as they grow. Surprisingly notwithstanding, the theoretical accounts for this phenomenon are far from developed. This paper provides a novel explanation and tests it. It proposes that young citizens are likely to be more radical on either side of the ideological spectrum. Instead of becoming more conservative, they moderate as they grow due to repeated experience of the democratic process. After initial exposure to their first electoral cycle as young adults, citizens learn from it and acquire more realistic expectations about the policy process. This process re-starts afterwards and repeats over the life course. Hence, the seemingly right-leaning effect of growth results from adolescents’ selection bias into left-wing positions. The paper assesses these claims in three steps. First, it uses data from the cumulative waves of the European Social Survey (ESS) to show that the number of experienced electoral cycles has a positive effect on ideological moderation after holding age, period and cohort constant. Second, it shows that this effect is larger for voters than for abstainers. The higher the level of engagement, the stronger the effect of electoral exposure on democratic learning. Finally, it exploits six national youth surveys in Europe to identify the effect of voting on ideological moderation using eligibility as an instrument. Preliminary results confirm that respondents just over the minimum legal age for voting are more moderate on average than respondents just below the threshold. The effect is substantial and robustly significant only a few months after their first national elections. Additional analyses look more in-depth into Spanish youth survey data to assess potential mechanisms, such as increased political interest and frequency of political talks. This paper contributes to the literature on political socialization, the effects of voting and political change over the life-course. It provides an original account of the role of ageing in ideological change. Normatively, it has optimistic implications in an era of growing polarization and democratic backsliding. Older voters grow more moderate and particularly those politically engaged.
-
-</details>
-<br>
-
-### Fragmented Party Offer, Vote Choice and Attitude Change: a Study on Right-wing Voters in the 2022 French Presidential Elections. <i>With Morgan Le Corre Juratic</i>.
-<br>
-<i>The pre-analysis plan is pending moderation in EGAP. You can download the non pre-registered version [here](https://github.com/ACanalejo/ACanalejo.github.io/blob/master/_drafts/french_survey_2022_pap.pdf) </i>.
-
-<details>
-
-<summary>Read more</summary>
-
-How does new party entry affect citizens’ electoral behavior? Does this new party electoral fortune affect citizens’ democratic attitudes? This project links both questions by analyzing the attitudinal correlates of new party voting and the effect of electoral results on democratic support and polarization when a new party irrupts the electoral scenario. Using a novel methodological approach, we leverage the unique natural setting of the 2022 French presidential election, where a new far-right challenger (the novel candidate Éric Zemmour) is likely to obtain sizeable electoral support and where three opposition parties are as likely to pass to the second round. We use the Facebook advertisement system (FAM) to recruit and survey potential far right-wing voters before and after the 1st round of the election. The contribution of this panel study is two-fold. First, the pre-electoral wave aims to disentangle the correlates of turnout and new party voting when more than one viable options are available within the same ideological space. This sheds new light on the causes of new party voting by holding strategic considerations and the electoral supply constant. Second, the post-electoral wave permits to assess the effect of the first round electoral outcome on satisfaction with democracy (SWD), especially for new and old party supporters. This project thus hopes to provide new insights on the consequences of a widespread phenomenon in current party systems, new party entry, on two key features of representative democracies.
 
 </details>
 <br>

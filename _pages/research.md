@@ -34,16 +34,15 @@ While extensive evidence confirms that winning an election increases satisfactio
 <i>The experiment of the third study is embedded in [this project](https://github.com/ACanalejo/ACanalejo.github.io/blob/master/_drafts/french_survey_2022_pap.pdf) </i>.
 <br>
 
-### Fragmented Party Offer, Vote Choice and Attitude Change: a Study on Right-wing Voters in the 2022 French Presidential Elections. <i>With Morgan Le Corre Juratic</i>.
+### Fragmented Party Offer, Vote Choice and Satisfaction with Democracy.
+<i>With Morgan Le Corre Juratic</i>.
 <details>
 
 <summary>Read more</summary>
 
-How does new party entry affect citizens’ electoral behavior? Does this new party electoral fortune affect citizens’ democratic attitudes? This project links both questions by analyzing the attitudinal correlates of new party voting and the effect of electoral results on democratic support and polarization when a new party irrupts the electoral scenario. Using a novel methodological approach, we leverage the unique natural setting of the 2022 French presidential election, where a new far-right challenger (the novel candidate Éric Zemmour) is likely to obtain sizeable electoral support and where three opposition parties are as likely to pass to the second round. We use the Facebook advertisement system (FAM) to recruit and survey potential far right-wing voters before and after the 1st round of the election. The contribution of this panel study is two-fold. First, the pre-electoral wave aims to disentangle the correlates of turnout and new party voting when more than one viable options are available within the same ideological space. This sheds new light on the causes of new party voting by holding strategic considerations and the electoral supply constant. Second, the post-electoral wave permits to assess the effect of the first round electoral outcome on satisfaction with democracy (SWD), especially for new and old party supporters. This project thus hopes to provide new insights on the consequences of a widespread phenomenon in current party systems, new party entry, on two key features of representative democracies.
+How does new party entry affect citizens’ electoral behavior? Does this new party electoral fortune affect citizens’ democratic attitudes? This paper links both questions by analyzing the attitudinal correlates of new party voting and the effect of electoral results on democratic support when a new party irrupts the electoral scenario. Using a novel methodological approach, we leverage the unique natural setting of the 2022 French presidential election, where a new far-right challenger (the novel candidate Éric Zemmour) is likely to obtain sizeable electoral support and where three opposition parties are as likely to pass to the second round. We use the Facebook advertisement system (FAM) to recruit and survey potential far right-wing voters before and after the 1st round of the election. The contribution of the panel is two-fold. First, the pre-electoral wave aims to disentangle the correlates of turnout and new party voting when more than one viable options are available within the same ideological space. This sheds new light on the causes of new party voting by holding strategic considerations and the electoral supply constant. Second, the post-electoral wave permits to assess the effect of the first round electoral outcome on satisfaction with democracy (SWD), especially for new and old party supporters. This paper thus hopes to provide new insights on the consequences of a widespread phenomenon in current party systems, new party entry, on two key features of representative democracies.
 
 </details>
-
-<i>The pre-analysis plan is pending moderation in EGAP. You can download the non pre-registered version [here](https://github.com/ACanalejo/ACanalejo.github.io/blob/master/_drafts/french_survey_2022_pap.pdf) </i>.
 <br>
 
 ### 'Braining Hearts' The Role of Electoral Experience on Ideological Moderation.
@@ -55,3 +54,18 @@ Empirical evidence from the US and Europe confirms the conventional wisdom that 
 
 </details>
 <br>
+
+## Research Projects
+
+### NewRadRight -- Fragmented Party Offer, Vote Choice and Attitude Change: a Study on Right-wing Voters in the 2022 French Presidential Elections. 
+<i>With Morgan Le Corre Juratic</i>.
+<details>
+
+<summary>Read more</summary>
+
+Over the last two decades, party system fragmentation has dramatically increased in Western democracies (Chiaramonte & Emanuele, 2019; Emanuele & Chiaramonte, 2018, 2019). This change has not come alone. On the contrary, polarization and dissatisfaction with the democratic process are arguably on the rise too (Boxell et al., 2020; Martini & Quaranta, 2020). This project links both phenomena by analyzing the attitudinal correlates of new party voting and the effect of electoral results on attitude change when a new party enters. To do so, it leverages the unique context of the 2022 French presidential election, where a new far-right challenger (the novel candidate Éric Zemmour) is likely to obtain sizeable electoral support. 
+
+The study consists of a two-wave panel survey distributed through Facebook targeted ads among potential right-wing voters before and after the 1st round of the election. Its goal is two-fold. First, the pre-electoral wave aims to disentangle the correlates of new party voting when more than one viable option is available within the same ideological space. Second, the post-electoral wave allows us to analyse pre-post election attitude change. An additional survey experiment assesses the effect of electoral information frames on satisfaction with democracy (SWD), political trust and efficacy among new party supporters.
+</details>
+
+<i>The pre-analysis plan is pending moderation in EGAP. You can download the non pre-registered version [here](https://github.com/ACanalejo/ACanalejo.github.io/blob/master/_drafts/french_survey_2022_pap.pdf) </i>.

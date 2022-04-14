@@ -18,7 +18,6 @@ Models of spatial voting and mobilization theory often imply that a larger numbe
 </details>
 
 <i>Draft available upon request</i>.
-<br>
 
 ## Work in progress
 
@@ -32,7 +31,6 @@ While extensive evidence confirms that winning an election increases satisfactio
 </details>
 
 <i>The experiment of the third study is embedded in [this project](https://github.com/ACanalejo/ACanalejo.github.io/blob/master/_drafts/french_survey_2022_pap.pdf) </i>.
-<br>
 
 ### Fragmented Party Offer, Vote Choice and Satisfaction with Democracy. <i>With Morgan Le Corre Juratic</i>.
 <details>
@@ -42,7 +40,6 @@ While extensive evidence confirms that winning an election increases satisfactio
 How does new party entry affect citizens’ electoral behavior? Does this new party electoral fortune affect citizens’ democratic attitudes? This paper links both questions by analyzing the attitudinal correlates of new party voting and the effect of electoral results on democratic support when a new party irrupts the electoral scenario. Using a novel methodological approach, we leverage the unique natural setting of the 2022 French presidential election, where a new far-right challenger (the novel candidate Éric Zemmour) is likely to obtain sizeable electoral support and where three opposition parties are as likely to pass to the second round. We use the Facebook advertisement system (FAM) to recruit and survey potential far right-wing voters before and after the 1st round of the election. The contribution of the panel is two-fold. First, the pre-electoral wave aims to disentangle the correlates of turnout and new party voting when more than one viable options are available within the same ideological space. This sheds new light on the causes of new party voting by holding strategic considerations and the electoral supply constant. Second, the post-electoral wave permits to assess the effect of the first round electoral outcome on satisfaction with democracy (SWD), especially for new and old party supporters. This paper thus hopes to provide new insights on the consequences of a widespread phenomenon in current party systems, new party entry, on two key features of representative democracies.
 
 </details>
-<br>
 
 ### 'Braining Hearts' The Role of Electoral Experience on Ideological Moderation.
 <details>
@@ -52,7 +49,6 @@ How does new party entry affect citizens’ electoral behavior? Does this new pa
 Empirical evidence from the US and Europe confirms the conventional wisdom that people become more conservative as they grow. Surprisingly notwithstanding, the theoretical accounts for this phenomenon are far from developed. This paper provides a novel explanation and tests it. It proposes that young citizens are likely to be more radical on either side of the ideological spectrum. Instead of becoming more conservative, they moderate as they grow due to repeated experience of the democratic process. After initial exposure to their first electoral cycle as young adults, citizens learn from it and acquire more realistic expectations about the policy process. This process re-starts afterwards and repeats over the life course. Hence, the seemingly right-leaning effect of growth results from adolescents’ selection bias into left-wing positions. The paper assesses these claims in three steps. First, it uses data from the cumulative waves of the European Social Survey (ESS) to show that the number of experienced electoral cycles has a positive effect on ideological moderation after holding age, period and cohort constant. Second, it shows that this effect is larger for voters than for abstainers. The higher the level of engagement, the stronger the effect of electoral exposure on democratic learning. Finally, it exploits six national youth surveys in Europe to identify the effect of voting on ideological moderation using eligibility as an instrument. Preliminary results confirm that respondents just over the minimum legal age for voting are more moderate on average than respondents just below the threshold. The effect is substantial and robustly significant only a few months after their first national elections. Additional analyses look more in-depth into Spanish youth survey data to assess potential mechanisms, such as increased political interest and frequency of political talks. This paper contributes to the literature on political socialization, the effects of voting and political change over the life-course. It provides an original account of the role of ageing in ideological change. Normatively, it has optimistic implications in an era of growing polarization and democratic backsliding. Older voters grow more moderate and particularly those politically engaged.
 
 </details>
-<br>
 
 ## Research Projects
 
@@ -63,7 +59,7 @@ Empirical evidence from the US and Europe confirms the conventional wisdom that 
 <summary>Read more</summary>
 
 Over the last two decades, party system fragmentation has dramatically increased in Western democracies (Chiaramonte & Emanuele, 2019; Emanuele & Chiaramonte, 2018, 2019). This change has not come alone. On the contrary, polarization and dissatisfaction with the democratic process are arguably on the rise too (Boxell et al., 2020; Martini & Quaranta, 2020). This project links both phenomena by analyzing the attitudinal correlates of new party voting and the effect of electoral results on attitude change when a new party enters. To do so, it leverages the unique context of the 2022 French presidential election, where a new far-right challenger (the novel candidate Éric Zemmour) is likely to obtain sizeable electoral support. 
-
+<br>
 The study consists of a two-wave panel survey distributed through Facebook targeted ads among potential right-wing voters before and after the 1st round of the election. Its goal is two-fold. First, the pre-electoral wave aims to disentangle the correlates of new party voting when more than one viable option is available within the same ideological space. Second, the post-electoral wave allows us to analyse pre-post election attitude change. An additional survey experiment assesses the effect of electoral information frames on satisfaction with democracy (SWD), political trust and efficacy among new party supporters.
 </details>
 

@@ -34,8 +34,7 @@ While extensive evidence confirms that winning an election increases satisfactio
 <i>The experiment of the third study is embedded in [this project](https://github.com/ACanalejo/ACanalejo.github.io/blob/master/_drafts/french_survey_2022_pap.pdf) </i>.
 <br>
 
-### Fragmented Party Offer, Vote Choice and Satisfaction with Democracy.
-<i>With Morgan Le Corre Juratic</i>.
+### Fragmented Party Offer, Vote Choice and Satisfaction with Democracy. <i>With Morgan Le Corre Juratic</i>.
 <details>
 
 <summary>Read more</summary>

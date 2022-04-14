@@ -30,7 +30,7 @@ While extensive evidence confirms that winning an election increases satisfactio
 
 </details>
 
-<i>The experiment of the third study is embedded in [this project](https://github.com/ACanalejo/ACanalejo.github.io/blob/master/_drafts/french_survey_2022_pap.pdf) </i>.
+<i>The experiment of the third study is embedded in [this project](https://github.com/ACanalejo/ACanalejo.github.io/raw/master/_drafts/french_survey_2022_pap.pdf) </i>.
 
 ### Fragmented Party Offer, Vote Choice and Satisfaction with Democracy. <i>With Morgan Le Corre Juratic</i>.
 <details>
@@ -63,4 +63,4 @@ Over the last two decades, party system fragmentation has dramatically increased
 The study consists of a two-wave panel survey distributed through Facebook targeted ads among potential right-wing voters before and after the 1st round of the election. Its goal is two-fold. First, the pre-electoral wave aims to disentangle the correlates of new party voting when more than one viable option is available within the same ideological space. Second, the post-electoral wave allows us to analyse pre-post election attitude change. An additional survey experiment assesses the effect of electoral information frames on satisfaction with democracy (SWD), political trust and efficacy among new party supporters.
 </details>
 
-<i>The pre-analysis plan is pending moderation in EGAP. You can download the non pre-registered version [here](https://github.com/ACanalejo/ACanalejo.github.io/blob/master/_drafts/french_survey_2022_pap.pdf) </i>.
+<i>The pre-analysis plan is pending moderation in EGAP. You can download the non pre-registered version [here](https://github.com/ACanalejo/ACanalejo.github.io/raw/master/_drafts/french_survey_2022_pap.pdf) </i>.

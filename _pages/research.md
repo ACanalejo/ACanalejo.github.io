@@ -30,7 +30,7 @@ Models of spatial voting and mobilization theory often imply that a larger numbe
 
 While extensive evidence confirms that winning an election increases satisfaction with democracy (SWD), the evidence on the effect of entering parliament is scarce. This is surprising given the increasing impact of new parties in Western democracies and the relevance of parliaments in proportional systems. New parties are more likely to irrupt parliament than ever before, and their voters also display lower levels of trust in parliament and SWD. Does parliamentary entry increase SWD among new party voters? This paper provides three studies to answer this question. The first one leverages the quasi-as-random nature of seat assignment around legally fixed electoral thresholds to identify the effect of parliamentary entry on SWD. It exploits post-electoral survey data from the CSES within a regression-discontinuity approach (RDD). The second study uses pre- and post-electoral waves from six national panels in Europe to compare changes in SWD among voters of new and old parties entering parliament. While voters of non-radical new parties become more satisfied after the election, voters of new radical parties do not. An in-depth analysis of AfD voters during the 2017 German Federal election using extensive panel data (n>8000) does not provide any consistent explanation. The third study consists of a survey experiment among far-right voters after the first round of the French presidential elections of 2022 when the new radical candidate Éric Zemmour obtained sizeable support. Pre-preliminary evidence suggests that radical new party voters do not become more supportive after their party breakthrough because of the victory of the mainstream rather than their party loss. This paper contributes to the extensive literature on the winner-loser gap in SWD. It also adds to the growing literature on party entry effects. Most importantly, it provides original insights on why party-system change might not foster democratic support. A majoritarian conception of democracy among radical party voters may prevent proportional institutions from alleviating their feelings of disaffection.
 <br>
-<i>The experiment of the third study is embedded in [this project](https://github.com/ACanalejo/ACanalejo.github.io/blob/master/_drafts/french_survey_2022_pap.pdf).</i>.
+<i>The experiment of the third study is embedded in [this project](https://github.com/ACanalejo/ACanalejo.github.io/blob/master/_drafts/french_survey_2022_pap.pdf) </i>.
 
 </details>
 <br>
@@ -46,8 +46,8 @@ Empirical evidence from the US and Europe confirms the conventional wisdom that 
 </details>
 <br>
 
-### Fragmented Party Offer, Vote Choice and Attitude Change.
-<i>With Morgan Le Corre Juratic*</i>.
+### Fragmented Party Offer, Vote Choice and Attitude Change: a Study on Right-wing Voters in the 2022 French Presidential Elections.
+<i>With Morgan Le Corre Juratic</i>.
 
 <details>
 
@@ -55,7 +55,7 @@ Empirical evidence from the US and Europe confirms the conventional wisdom that 
 
 How does new party entry affect citizens’ electoral behavior? Does this new party electoral fortune affect citizens’ democratic attitudes? This project links both questions by analyzing the attitudinal correlates of new party voting and the effect of electoral results on democratic support and polarization when a new party irrupts the electoral scenario. Using a novel methodological approach, we leverage the unique natural setting of the 2022 French presidential election, where a new far-right challenger (the novel candidate Éric Zemmour) is likely to obtain sizeable electoral support and where three opposition parties are as likely to pass to the second round. We use the Facebook advertisement system (FAM) to recruit and survey potential far right-wing voters before and after the 1st round of the election. The contribution of this panel study is two-fold. First, the pre-electoral wave aims to disentangle the correlates of turnout and new party voting when more than one viable options are available within the same ideological space. This sheds new light on the causes of new party voting by holding strategic considerations and the electoral supply constant. Second, the post-electoral wave permits to assess the effect of the first round electoral outcome on satisfaction with democracy (SWD), especially for new and old party supporters. This project thus hopes to provide new insights on the consequences of a widespread phenomenon in current party systems, new party entry, on two key features of representative democracies.
 <br>
-<i>The pre-analysis plan is pending moderation in EGAP. You can download the non pre-registered version [here](https://github.com/ACanalejo/ACanalejo.github.io/blob/master/_drafts/french_survey_2022_pap.pdf).</i>.
+<i>The pre-analysis plan is pending moderation in EGAP. You can download the non pre-registered version [here](https://github.com/ACanalejo/ACanalejo.github.io/blob/master/_drafts/french_survey_2022_pap.pdf) </i>.
 
 </details>
 <br>

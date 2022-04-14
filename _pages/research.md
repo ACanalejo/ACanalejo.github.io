@@ -8,7 +8,7 @@ Here you can find detailed information about what I am currently working on.
 
 ## Working papers
 
-### Does New Party Entry Increase Electoral Turnout? Quasi-experimental Evidence from the 2015 Spanish Local Elections
+### Does New Party Entry Increase Electoral Turnout? Quasi-experimental Evidence from the 2015 Spanish Local Elections.
 <details>
 
 <summary>Read more</summary>
@@ -23,7 +23,7 @@ Models of spatial voting and mobilization theory often imply that a larger numbe
 
 ## Work in progress
 
-### Does Parliamentary Entry Increase Satisfaction with Democracy? Comparative Evidence from a Three-fold Study
+### Does Parliamentary Entry Increase Satisfaction with Democracy? Comparative Evidence from a Three-fold Study.
 <details>
 
 <summary>Read more</summary>
@@ -34,7 +34,7 @@ While extensive evidence confirms that winning an election increases satisfactio
 <br>
 
 
-### 'Braining Hearts' The Role of Electoral Experience on Ideological Moderation
+### 'Braining Hearts' The Role of Electoral Experience on Ideological Moderation.
 <details>
 
 <summary>Read more</summary>
@@ -44,14 +44,16 @@ Empirical evidence from the US and Europe confirms the conventional wisdom that 
 </details>
 <br>
 
-### Fragmented Party Offer, Vote Choice and Attitude Change
-*With Morgan Le Corre Juratic*
+### Fragmented Party Offer, Vote Choice and Attitude Change.
+<i>With Morgan Le Corre Juratic*</i>.
 
 <details>
 
 <summary>Read more</summary>
 
 How does new party entry affect citizens’ electoral behavior? Does this new party electoral fortune affect citizens’ democratic attitudes? This project links both questions by analyzing the attitudinal correlates of new party voting and the effect of electoral results on democratic support and polarization when a new party irrupts the electoral scenario. Using a novel methodological approach, we leverage the unique natural setting of the 2022 French presidential election, where a new far-right challenger (the novel candidate Éric Zemmour) is likely to obtain sizeable electoral support and where three opposition parties are as likely to pass to the second round. We use the Facebook advertisement system (FAM) to recruit and survey potential far right-wing voters before and after the 1st round of the election. The contribution of this panel study is two-fold. First, the pre-electoral wave aims to disentangle the correlates of turnout and new party voting when more than one viable options are available within the same ideological space. This sheds new light on the causes of new party voting by holding strategic considerations and the electoral supply constant. Second, the post-electoral wave permits to assess the effect of the first round electoral outcome on satisfaction with democracy (SWD), especially for new and old party supporters. This project thus hopes to provide new insights on the consequences of a widespread phenomenon in current party systems, new party entry, on two key features of representative democracies.
+<br>
+<i>Draft available upon request</i>.
 
 </details>
 <br>

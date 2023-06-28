@@ -84,7 +84,7 @@ Does digitalization-induced societal change provide a social basis for a nascent
 </details>
 
 
-## Research Projects
+## Research projects
 
 ### NewRadRight -- Fragmented Party Offer, Vote Choice and Attitude Change: a Study on Right-wing Voters in the 2022 French Presidential Elections. 
 <i>With Morgan Le Corre Juratic</i>.

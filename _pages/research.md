@@ -8,6 +8,18 @@ Here you can find detailed information about my work.
 
 ## Working papers
 
+### Blinded by Out-group Hatred. Why does Radical Right Party Entry Reduce its Voters’ Satisfaction with Democracy?
+<i>With Morgan Le Corre Juratic</i>.
+<details>
+
+<summary>Read more</summary>
+
+This paper examines why the electoral breakthrough of radical parties further reinforces democratic dissatisfaction among their voters. Against the prevailing utilitarian framework, we argue that an affective response to the out-group instead of the in-group party results better explains changes in democratic evaluations under growing affective polarization. To evaluate our theory, we combine observational, experimental and qualitative evidence from a sample of Éric Zemmour voters, the emerging radical right candidate who disrupted the 2022 French elections. Our findings confirm that Zemmour voters became the least satisfied with democracy after the elections and provide evidence of a negative affective response to the out-group (Macron) win as the driving mechanism. The qualitative analysis confirms the causal path from negative feelings toward the winner to questioning the democratic system. Contrary to representation theories, our paper suggests that the institutional inclusion of marginalized political groups may only exacerbate dissatisfaction in highly polarized electoral contexts.
+
+</details>
+
+<i>The preprint is available [HERE](https://osf.io/7bfka).</i>.
+
 ### Boost or Backlash? The Heterogeneous Effects of Parliamentary Representation on Satisfaction with Democracy
 <details>
 
@@ -18,13 +30,12 @@ Does parliamentary representation affect satisfaction with democracy (SWD)? This
 
 <i>Draft available upon request</i>.
 
-### Why does Radical Party Entry Reduce Satisfaction with Democracy? The Role of Affective Polarization
-<i>With Morgan Le Corre Juratic</i>.
+### Does New Party Entry Increase Electoral Turnout? Quasi-Experimental Evidence from the 2015 Spanish Local Elections
 <details>
 
 <summary>Read more</summary>
 
-One of the most consistent patterns in political science is that elections boost satisfaction with democracy (SWD). However, unless in government, voters of radical and populist parties are more dissatisfied after elections. These two findings are hardly compatible with the prevailing in-group logic that takes changes in SWD only as a function of the own party results. Instead, this paper proposes that adding an out-group logic is crucial to understanding changes in SWD among affectively polarized voters such as those of radical parties. In this scenario, we argue that changes in SWD would be heterogeneously affected by the radical party (in-group) and the mainstream party (out-group) results. When facing a defeat, a negative affective response to the out-group win will outweigh the positive impact of the relative in-group success. To test this argument, we leverage the electoral uncertainty between the first and second rounds of the 2022 French presidential election with a survey experiment embedded in a two-wave panel survey. We recruited voters of the new radical candidate Éric Zemmour through Facebook targeted ads and primed them with either their party's electoral benefits or their primary opponent's victory (Emmanuel Macron). Consistently with our expectations, priming Zemmour's voters with Macron's potential victory is associated with a negative change in SWD. Instead, none of the pro-in-group treatment conditions has any significant effect. Finally, a qualitative analysis of an open-ended question following the intervention lends support to the affective mechanism. These findings shed light on the overlooked relationship between SWD and affective polarization. Contrary to theories of representation, the institutional inclusion of marginalized political groups may only exacerbate dissatisfaction in highly polarized electoral contexts. 
+The hypothesis that a larger number of parties boosts electoral participation is well-established in political research. However, the most up-to-date evidence fails to identify a causal effect. Employing time-series cross-sectional data, some studies show that electoral turnout is higher when increasing the number of available candidates, while others justify the opposite, i.e., that anticipating higher turnout rates incentivizes new parties to compete. To solve this endogeneity puzzle, I leverage a unique real-world setting with quasi-exogeneous variation in the number of new parties' candidate lists: the 2015 Spanish local elections. In those elections, the two newcomers *Podemos* and *Ciudadanos* run candidates in as many municipalities as possible to jump on the bandwagon of their recent success at the European Parliamentary elections. However, they could not do it in many of them due to their lack of organizational roots. Therefore, I compare official participation records across these municipalities to identify the effect of new parties' candidates on turnout by matching them on a series of observable characteristics with a difference-in-differences approach. The results provide a causal estimate of the effect of new parties' candidate lists close to a 0.8% average increase on electoral turnout, robust to different specifications. This finding advises against using electoral participation rates as an explanatory variable for studies of new party entry, while it confirms previous correlational evidence on party entry effects. More broadly, it contributes to the growing literature on the effects of party system change on political behaviour. From a normative perspective, it also defies the folk wisdom that increasing party system fragmentation has adverse consequences for democratic quality.
 
 </details>
 
@@ -36,17 +47,6 @@ One of the most consistent patterns in political science is that elections boost
 <summary>Read more</summary>
 
 Elections that break regular volatility patterns because of massive vote transfers to challenger parties are increasingly common in Western democracies. Yet, we lack an analytical framework to identify their causes and consequences. This paper introduces the concept of disruptive elections to address this gap and provides evidence of its utility by analyzing their implications on a well-studied post-electoral outcome: satisfaction with democracy (SWD). The paper proceeds in two steps. First, it defines, operationalizes and maps all the disruptive elections that have shaken Western European party systems from 1945 until 2021. Second, it uses panel data from five national elections in Europe to show that voters do not experience changes in SWD after disruptive elections, in contrast to after regular elections. When challenger parties break into the system without winning, the resulting uncertainty blurs the winner-loser distinction, and the typical winner-loser gap in SWD fades away. The contribution of this study is twofold. First, it provides an original framework for studying elections that break with predictable electoral competition patterns. Second, it provides evidence that disruptive elections negatively affect democratic legitimacy. At least in the short run, the post-disruption uncertainty hinders SWD changes among winners and losers alike.
-
-</details>
-
-<i>Draft available upon request</i>.
-
-### Does New Party Entry Increase Electoral Turnout? Quasi-Experimental Evidence from the 2015 Spanish Local Elections
-<details>
-
-<summary>Read more</summary>
-
-The hypothesis that a larger number of parties boosts electoral participation is well-established in political research. However, the most up-to-date evidence fails to identify a causal effect. Employing time-series cross-sectional data, some studies show that electoral turnout is higher when increasing the number of available candidates, while others justify the opposite, i.e., that anticipating higher turnout rates incentivizes new parties to compete. To solve this endogeneity puzzle, I leverage a unique real-world setting with quasi-exogeneous variation in the number of new parties' candidate lists: the 2015 Spanish local elections. In those elections, the two newcomers *Podemos* and *Ciudadanos* run candidates in as many municipalities as possible to jump on the bandwagon of their recent success at the European Parliamentary elections. However, they could not do it in many of them due to their lack of organizational roots. Therefore, I compare official participation records across these municipalities to identify the effect of new parties' candidates on turnout by matching them on a series of observable characteristics with a difference-in-differences approach. The results provide a causal estimate of the effect of new parties' candidate lists close to a 0.8% average increase on electoral turnout, robust to different specifications. This finding advises against using electoral participation rates as an explanatory variable for studies of new party entry, while it confirms previous correlational evidence on party entry effects. More broadly, it contributes to the growing literature on the effects of party system change on political behaviour. From a normative perspective, it also defies the folk wisdom that increasing party system fragmentation has adverse consequences for democratic quality.
 
 </details>
 
@@ -86,7 +86,25 @@ Does digitalization-induced societal change provide a social basis for a nascent
 
 ## Research projects
 
-### NewRadRight -- Fragmented Party Offer, Vote Choice and Attitude Change: a Study on Right-wing Voters in the 2022 French Presidential Elections. 
+### The downstream effect of a disliked candidate winning elections on democratic attitudes 
+<i>With Morgan Le Corre Juratic</i>.
+<details>
+
+<summary>Read more</summary>
+
+This project aims to causally assess the downstream effects of growing affective polarization among the electorate on satisfaction with democracy and other democratic outcomes (i.e. government’s legitimacy, perceptions of electoral fairness, violations of democratic principles). This project is an extension of a co-authored study (preprint submitted to a top journal) and will complement a preliminary and new empirical analysis with observational data and a Regression Discontinuity Design. In this analysis, we find that voters become less satisfied with democracy when their most hated party (compared to the better-liked, first “losing” party) barely wins most seats in parliament. Importantly, we find that this effect is not concentrated among radical voters or supporters of the main opposition party, but across all voters disliking the winner of elections. However, this study suffers from post-treatment bias, as the feelings toward each party used as an indicator are measured post-election (and correlate with vote choice). In addition, the range of dependent variables is limited to satisfaction with democracy, which constrains the interpretation of the findings.
+<br>
+Hence, this project aims to complement this analysis with a survey experiment to address these concerns and increase the chances of this study being published in a top outlet. The experiment will manipulate in a hypothetical scenario whether respondents’ most disliked party wins elections in two countries and evaluate its effect on democratic satisfaction and other democratic outcomes. As affective polarization is growing in established democracies, the victory of a disliked party is a likely and common outcome of elections. Thus, assessing the downstream effects of this phenomenon on voters’ democratic support is critical to understanding the challenges posed by growing affective polarization in our democracies.
+
+### The spillover effects of center-periphery dynamics on politically disenfranchised regions
+<i>With Alberto López-Ortega and Javier Padilla</i>.
+<details>
+
+<summary>Read more</summary>
+
+In the last decades, conflict over sovereignty and political autonomy has been ubiquitous in Europe, ranging from Catalonia and Spain to Scotland and the United Kingdom, and even extending to the latter and the European Union. Most studies on how center and peripheral regions interact in (quasi)federal states assume a bilateral framework in which the only actors involved are the region demanding devolution and the central government. In this project, we introduce an augmented model of center-periphery dynamics that includes disenfranchised regions, that is, regions not directly involved in the conflict whose demands for (de)centralization are not politically articulated and may vary as a reaction. From a public opinion perspective, we argue that identities in these regions will be influenced by demands for special treatment and the state's answers to these demands. We theorize that providing special treatment can bolster regional identity in disenfranchised areas. In contrast, conflictual negotiations over devolution will increase national identity and, in both cases, this will result in demands for symmetrical decentralization. We propose a multi-arm video-vignette experiment in Spain with a special focus on Andalusia, a prototypical disenfranchised region relative to the Spanish-Catalan conflict. Our experiment is particularly well-suited to the Spanish political scenario, where current negotiations for government formation have reinvigorated the territorial conflict over political autonomy in Catalonia. The results of this project have far-reaching implications beyond the Spanish case. The reactions of the disenfranchised regions are important to understand the constraints faced by the different actors in asymmetric federalist states. Moreover, these negotiations may explain why regional identities might be more prominent in the disenfranchised regions of asymmetric federalist countries than in the disenfranchised regions of centralized countries. This research significantly advances our understanding of state stability by providing a nuanced perspective on regional interactions and identities.
+
+### Fragmented Party Offer, Vote Choice and Attitude Change: a Study on Right-wing Voters in the 2022 French Presidential Elections
 <i>With Morgan Le Corre Juratic</i>.
 <details>
 

@@ -18,7 +18,7 @@ This paper examines why the electoral breakthrough of radical parties further re
 
 </details>
 
-<i>The preprint is available [HERE](https://osf.io/7bfka).</i>.
+<i>The preprint is available [HERE](https://osf.io/7bfka).</i>
 
 ### Boost or Backlash? The Heterogeneous Effects of Parliamentary Representation on Satisfaction with Democracy
 <details>
@@ -95,6 +95,7 @@ Does digitalization-induced societal change provide a social basis for a nascent
 This project aims to causally assess the downstream effects of growing affective polarization among the electorate on satisfaction with democracy and other democratic outcomes (i.e. government’s legitimacy, perceptions of electoral fairness, violations of democratic principles). This project is an extension of a co-authored study (preprint submitted to a top journal) and will complement a preliminary and new empirical analysis with observational data and a Regression Discontinuity Design. In this analysis, we find that voters become less satisfied with democracy when their most hated party (compared to the better-liked, first “losing” party) barely wins most seats in parliament. Importantly, we find that this effect is not concentrated among radical voters or supporters of the main opposition party, but across all voters disliking the winner of elections. However, this study suffers from post-treatment bias, as the feelings toward each party used as an indicator are measured post-election (and correlate with vote choice). In addition, the range of dependent variables is limited to satisfaction with democracy, which constrains the interpretation of the findings.
 <br>
 Hence, this project aims to complement this analysis with a survey experiment to address these concerns and increase the chances of this study being published in a top outlet. The experiment will manipulate in a hypothetical scenario whether respondents’ most disliked party wins elections in two countries and evaluate its effect on democratic satisfaction and other democratic outcomes. As affective polarization is growing in established democracies, the victory of a disliked party is a likely and common outcome of elections. Thus, assessing the downstream effects of this phenomenon on voters’ democratic support is critical to understanding the challenges posed by growing affective polarization in our democracies.
+</details>
 
 ### The spillover effects of center-periphery dynamics on politically disenfranchised regions
 <i>With Alberto López-Ortega and Javier Padilla</i>.
@@ -103,6 +104,7 @@ Hence, this project aims to complement this analysis with a survey experiment to
 <summary>Read more</summary>
 
 In the last decades, conflict over sovereignty and political autonomy has been ubiquitous in Europe, ranging from Catalonia and Spain to Scotland and the United Kingdom, and even extending to the latter and the European Union. Most studies on how center and peripheral regions interact in (quasi)federal states assume a bilateral framework in which the only actors involved are the region demanding devolution and the central government. In this project, we introduce an augmented model of center-periphery dynamics that includes disenfranchised regions, that is, regions not directly involved in the conflict whose demands for (de)centralization are not politically articulated and may vary as a reaction. From a public opinion perspective, we argue that identities in these regions will be influenced by demands for special treatment and the state's answers to these demands. We theorize that providing special treatment can bolster regional identity in disenfranchised areas. In contrast, conflictual negotiations over devolution will increase national identity and, in both cases, this will result in demands for symmetrical decentralization. We propose a multi-arm video-vignette experiment in Spain with a special focus on Andalusia, a prototypical disenfranchised region relative to the Spanish-Catalan conflict. Our experiment is particularly well-suited to the Spanish political scenario, where current negotiations for government formation have reinvigorated the territorial conflict over political autonomy in Catalonia. The results of this project have far-reaching implications beyond the Spanish case. The reactions of the disenfranchised regions are important to understand the constraints faced by the different actors in asymmetric federalist states. Moreover, these negotiations may explain why regional identities might be more prominent in the disenfranchised regions of asymmetric federalist countries than in the disenfranchised regions of centralized countries. This research significantly advances our understanding of state stability by providing a nuanced perspective on regional interactions and identities.
+</details>
 
 ### Fragmented Party Offer, Vote Choice and Attitude Change: a Study on Right-wing Voters in the 2022 French Presidential Elections
 <i>With Morgan Le Corre Juratic</i>.

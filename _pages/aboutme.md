@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 <br>
-<br>
 
 I am a political scientist from Córdoba, Spain. Since December 2022, I work as a Postdoctoral Researcher at the University of Lucerne (UniLu), where I study the politicization of digitalization issues in Switzerland as a member of DIGIPOL. I am also a member of the Digital Society Initiative of the University of Zurich.
 

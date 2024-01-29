@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 <br>
-<br>
 
 - [El perfil del nuevo Congreso: menos partidos, pero más diverso](https://elpais.com/politica/2016/07/05/actualidad/1467717044_250844.html) (2016). ElPais
 

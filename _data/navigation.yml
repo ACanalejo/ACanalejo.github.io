@@ -1,4 +1,4 @@
-# main links links
+# main links
 main:
 
   - title: "About me"
@@ -9,7 +9,10 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
-    
+  
+  - title: "Outreach"
+    url: /outreach/
+  
   - title: "CV"
     url: /cv/
         

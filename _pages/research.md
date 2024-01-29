@@ -4,7 +4,6 @@ permalink: /research/
 author_profile: true
 ---
 
-Here you can find detailed information about my work.
 
 ## Working Papers
 

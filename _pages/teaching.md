@@ -4,8 +4,6 @@ permalink: /teaching/
 author_profile: true
 ---
 
-These are all the courses I have taught.
-
 ### [Political Culture](https://github.com/ACanalejo/politicalculture_unilu2024) (Spring 2024). 
 
 Undergraduate Level, University of Lucerne

@@ -5,11 +5,14 @@ permalink: /aboutme/
 author_profile: true
 ---
 
-I am a political scientist from Córdoba, Spain. Since December 2022 I am a Postdoctoral Researcher at the University of Lucerne (UniLu) and a member of the Digital Society Initiative of the University of Zurich (DSI-UZH). As a postdoctoral researcher at UniLu, I work in the SNSF-funded project DIGIPOL, in which we study the politicization of digitalization issues in Switzerland. 
+<br>
+<br>
 
-I hold a PhD in Political and Social Sciences from the European University Institute. During my PhD studies, I have also been a visiting researcher at the London School of Economics and Political Science.
+I am a political scientist from Córdoba, Spain. Since December 2022, I work as a Postdoctoral Researcher at the University of Lucerne (UniLu), where I study the politicization of digitalization issues in Switzerland in the SNF-funded project DIGIPOL. I am also a member of the Digital Society Initiative of the University of Zurich.
 
-My research looks at the intersection of party politics, public opinion and behavior, combining qualitative, experimental and causal inference designs with computational methods.
+Since June 2023, I hold a PhD in Political and Social Sciences from the European University Institute. Previously, I have also been a Visiting Fellow at the London School of Economics and an External Lecturer at UniLu.
+
+My research looks at the intersection of party politics, public opinion and behavior. I like combining qualitative, experimental and causal inference designs with computational methods.
 
 Please, do not hesitate to [contact me](mailto:alvaro.canalejo@eui.eu) for any inquiry or proposal!
  

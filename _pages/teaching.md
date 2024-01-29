@@ -4,9 +4,9 @@ permalink: /teaching/
 author_profile: true
 ---
 
-### [Political Culture](https://github.com/ACanalejo/politicalculture_unilu2024) (Spring 2024). 
+### [Political Culture](https://github.com/ACanalejo/politicalculture_unilu2024)  
 
-Undergraduate Level, University of Lucerne
+Undergraduate Level, University of Lucerne (Spring 2024)
 
 <details>
   <summary>Course Description</summary>
@@ -15,9 +15,9 @@ Undergraduate Level, University of Lucerne
   </p>
 </details>
 
-### [Electoral Behavior and Party Competition: Continuity and Change in Western Europe](https://github.com/ACanalejo/ebpc_unilu2023) (Spring 2023). 
+### [Electoral Behavior and Party Competition: Continuity and Change in Western Europe](https://github.com/ACanalejo/ebpc_unilu2023) 
 
-Graduate Level, University of Lucerne
+Graduate Level, University of Lucerne (Spring 2023)
 
 <details>
   <summary>Course Description</summary>
@@ -27,9 +27,9 @@ Graduate Level, University of Lucerne
 </details>
 
 
-### [Comparative Western European Party Systems: Continuity and Change](https://github.com/ACanalejo/cwps_continuity_and_change_unilu2022) (Spring 2022). 
+### [Comparative Western European Party Systems: Continuity and Change](https://github.com/ACanalejo/cwps_continuity_and_change_unilu2022) 
 
-Undergraduate Level, University of Lucerne
+Undergraduate Level, University of Lucerne (Spring 2022)
 
 <details>
   <summary>Course Description</summary>

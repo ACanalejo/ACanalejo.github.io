@@ -5,9 +5,6 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-# Theme
-theme: alembic-jekyll-theme
-
 # Site Settings
 locale                   : "en-US"
 title                    : "Álvaro Canalejo-Molero"

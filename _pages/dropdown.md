@@ -11,8 +11,8 @@ children:
   - title: CV
     permalink: /cv/
   - title: divider
-  - title: Publications
-    permalink: /publications/
+  - title: Research
+    permalink: /research/
   - title: divider
   - title: Teaching
     permalink: /publications/

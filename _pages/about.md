@@ -21,7 +21,7 @@ social: true # includes social icons at the bottom of the page
 
 <div style="margin-top: 20px;"></div>
 
-I am a Postdoctoral Researcher at the [University of Lucerne](https://www.unilu.ch/en/), where I contribute to the [SNSF](https://www.snf.ch/en)-funded project [DIGIPOL](https://www.unilu.ch/en/faculties/faculty-of-humanities-and-social-sciences/institutes-departements-and-research-centres/department-of-political-science/research/digitalization-and-political-conflict-parties-voters-and-electoral-alignment-digipol/) and serve as a Senior Researcher at the [Chair of Political Behavior and Communication](https://www.unilu.ch/en/faculties/faculty-of-humanities-and-social-sciences/institutes-departements-and-research-centres/department-of-political-science/staff/prof-dr-alexander-trechsel/#tab=c46508). I am also affiliated with the [Digital Society Initiative](https://www.dsi.uzh.ch/en.html) at the University of Zurich.
+I am a Postdoctoral Researcher at the [University of Lucerne](https://www.unilu.ch/en/), where I contribute to the [SNSF](https://www.snf.ch/en)-funded project [DIGIPOL](https://www.unilu.ch/en/faculties/faculty-of-humanities-and-social-sciences/institutes-departements-and-research-centres/department-of-political-science/research/digitalization-and-political-conflict-parties-voters-and-electoral-alignment-digipol/) and serve as a Senior Researcher at the [Chair of Political Behavior and Communication](https://www.unilu.ch/en/faculties/faculty-of-humanities-and-social-sciences/institutes-departements-and-research-centres/department-of-political-science/staff/prof-dr-alexander-trechsel/#tab=c46508). I am also affiliated with the [Digital Society Initiative](https://www.dsi.uzh.ch/en.html) at the [University of Zurich](https://www.uzh.ch/en.html).
 
 I earned my [PhD in Political and Social Sciences](https://hdl.handle.net/1814/75692) from the [European University Institute](https://www.eui.eu/en/home) in 2023. During my doctoral studies, I was a Visiting Fellow at the [London School of Economics and Political Science](https://www.lse.ac.uk/) and later served as an External Lecturer at the University of Lucerne.
 
@@ -36,7 +36,7 @@ Thanks for visiting!
 ## Research Interests
 ---
 
-My research lies on the fields of comparative politics, political behavior, and public opinion, with a particular interest in the intersection of party politics, public attitudes, and behavior. I also have a keen interest in research design and methodology, particularly mixed-methods, experimental, and causal inference designs, to tackle pressing social questions. Below is a summary of my main **research topics**.
+My research lies in the fields of comparative politics, political behavior, and public opinion, with a particular interest in the intersection of party politics, public attitudes, and behavior. I also have a keen interest in research design and methodology, particularly mixed-methods, experimental, and causal inference designs. Below is a summary of my main **research topics**.
 
 <div style="margin-top: 40px;"></div>
 

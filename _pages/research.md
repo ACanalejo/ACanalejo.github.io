@@ -19,6 +19,10 @@ nav_order: 2
 
 &nbsp; <a id="salf-anchor"></a>Padilla Moreno-Torres, J., **Canalejo-Molero, Á.** & López Ortega, A. *Bukele in Brussels? Explaining the Rise of the Spanish Far-Right SALF*  (Under review)
 
+&nbsp; <a id="depol-survey-anchor"></a>**Canalejo-Molero, Á.**, Cicchi, L., Ferreira da Silva, F., Garzia, D., Reiljan, A. & Trechsel A. H.  *Priming Common European and Democratic Values Does Not Reduce Affective Polarization* (Under review)
+
+&nbsp; <a id="depol-euandi-anchor"></a>Ferreira da Silva, F., **Canalejo-Molero, Á.**, Cicchi, L., Garzia, D., Reiljan, A. & Trechsel A. H. *Reducing partisan animosity with Voting Advice Applications (VAAs)* (Under review)
+
 &nbsp; <a id="parl-entry-anchor"></a>**Canalejo-Molero, Á.** *Boost or Backlash? The Heterogeneous Effects of Parliamentary Representation on Satisfaction with Democracy* [[Preprint](https://osf.io/ekymh)]
 
 &nbsp; <a id="losers-consent-anchor"></a>Le Corre Juratic, M. & **Canalejo-Molero, Á.** *Assessing the Severity and Nature of Losers’ Consent Erosion in Polarized Societies* (Working paper available upon request)
@@ -32,10 +36,6 @@ nav_order: 2
 ## Work in progress
 
 - <a id="regional-anchor"></a>The Spillover Effects of Center-Periphery Dynamics on Politically Disenfranchised Regions (with Padilla Moreno-Torres, J.& López Ortega, A.)
-
-- <a id="depol-euandi-anchor"></a>Reducing Affective Polarization with VAAs (with Cicchi, L., Ferreira da Silva, F., Garzia, D., Reiljan, A. & Trechsel A. H.)
-
-- <a id="depol-survey-anchor"></a>Depolarizing Interventions before the European Parliament Elections (with Cicchi, L., Ferreira da Silva, F., Garzia, D., Reiljan, A. & Trechsel A. H.)
 
 - <a id="digipol-supply-anchor"></a>The Politicization of Digitalization (with Flechtner, M. & Trechsel, A. H.)
 

@@ -13,7 +13,7 @@ nav_order: 3
 
 ## Undergraduate-Level Courses
 
-&nbsp; [Political Culture](https://github.com/ACanalejo/politicalculture_unilu2024), University of Lucerne (2024)  
+&nbsp; [Culture and Politics](https://github.com/ACanalejo/politicalculture_unilu2025), University of Lucerne (2024, 2025)  
 
 &nbsp; [Electoral Behavior and Party Competition: Continuity and Change in Western Europe](https://github.com/ACanalejo/ebpc_unilu2023), University of Lucerne (2023)  
 
@@ -21,4 +21,4 @@ nav_order: 3
 
 ## Supervision
 
-&nbsp; In addition to teaching, I supervise Bachelor’s and Master’s theses. To date, I have supervised (or am currently supervising) **five** BA theses and **two** MA theses at the University of Lucerne.
+&nbsp; In addition to teaching, I supervise Bachelor’s and Master’s theses. To date, I have supervised (or am currently supervising) **seven** BA theses and **six** MA theses at the University of Lucerne.

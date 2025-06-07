@@ -64,7 +64,7 @@ nav_order: 2
 
 &nbsp; <a id="thesis-anchor"></a>**Canalejo-Molero, Á.** (2023). [*New Party Entry and Political Engagement: Electoral Turnout and Satisfaction with Democracy*](https://cadmus.eui.eu/handle/1814/75692). Florence: European University Institute, 2023, EUI, SPS, PhD Thesis
 
-&nbsp; ------ Committee: Hanspeter Kriesi (supervisor), Elias Dinas, Chris J. Anderson, Ruth Dassonneville
+&nbsp; --- Committee: Hanspeter Kriesi (supervisor), Elias Dinas, Chris J. Anderson, Ruth Dassonneville
 
 <div style="margin-top: 40px;"></div>
 

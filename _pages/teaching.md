@@ -9,9 +9,15 @@ nav_order: 3
 
 ## Graduate-Level Courses
 
+<div style="margin-top: 20px;"></div>
+
 &nbsp; [Research Design and Methods in Quantitative Research](https://github.com/ACanalejo/rdmqr_unilu2024), University of Lucerne (2024)
 
+<div style="margin-top: 40px;"></div>
+
 ## Undergraduate-Level Courses
+
+<div style="margin-top: 20px;"></div>
 
 &nbsp; [Culture and Politics](https://github.com/ACanalejo/politicalculture_unilu2025), University of Lucerne (2024, 2025)  
 
@@ -19,6 +25,10 @@ nav_order: 3
 
 &nbsp; [Comparative Western European Party Systems: Continuity and Change](https://github.com/ACanalejo/cwps_continuity_and_change_unilu2022), University of Lucerne (2022)
 
+<div style="margin-top: 40px;"></div>
+
 ## Supervision
 
-&nbsp; In addition to teaching, I supervise Bachelor’s and Master’s theses. To date, I have supervised (or am currently supervising) **seven** BA theses and **six** MA theses at the University of Lucerne.
+<div style="margin-top: 20px;"></div>
+
+&nbsp; In addition to teaching, I supervise Bachelor’s and Master’s theses. To date, I have supervised (or am currently supervising) **seven** BA theses and **five** MA theses at the University of Lucerne.

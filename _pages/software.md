@@ -10,6 +10,8 @@ nav_order: 5
 
 ## Exploring P-values and T-statistics
 
+<div style="margin-top: 20px;"></div>
+
 This app is designed to help visually understand how the p-values of regression beta coefficients depend on the t-statistic. It illustrates the relationships between the size of the beta coefficient, the standard error (affected by sample size), and degrees of freedom, providing an intuitive way to explore these statistical concepts.
 
 You can interact with the app below or visit it on a separate page by clicking [here](https://acanalejo.shinyapps.io/12_session12/).

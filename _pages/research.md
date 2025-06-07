@@ -9,15 +9,21 @@ nav_order: 2
 
 ## Peer-Reviewed Publications
 
+<div style="margin-top: 20px;"></div>
+
 &nbsp; <a id="salf-anchor"></a>Padilla Moreno-Torres, J., **Canalejo-Molero, Á.** & López Ortega, A. *When the Party is Over: Explaining the Rise of the Spanish Far-Right SALF*  (Conditionally accepted at *Research & Politics*)
+
+<div style="margin-top: 40px;"></div>
 
 ## Working papers
 
+<div style="margin-top: 20px;"></div>
+
 &nbsp; <a id="radical-entry-anchor"></a>**Canalejo-Molero, Á.** & Le Corre Juratic, M. *Blinded by Out-group Hatred. Why does Radical Party Entry Reduce its Voters’ Satisfaction with Democracy* [[Preprint](https://osf.io/7bfka)] (Under review)
 
-&nbsp; ------ Djøf Forlag prize for the best paper presented by a junior researcher at the 2023 Danish Political Science Association conference
+&nbsp; --- Djøf Forlag prize for the best paper presented by a junior researcher at the 2023 Danish Political Science Association conference
 
-&nbsp; ------ Wilson award for the best paper on French politics presented at the 2022 APSA meeting
+&nbsp; --- Wilson award for the best paper on French politics presented at the 2022 APSA meeting
 
 &nbsp; <a id="elites-anchor"></a>Padilla-Galviz, E. S. & **Canalejo-Molero, Á.** *Does Losing Affect Democratic Attitudes and Preferences among Rank-and-File Politicians? A Comparative Study in 27 Elections*  (Under review)
 
@@ -35,7 +41,11 @@ nav_order: 2
 
 &nbsp; <a id="disruptive-anchor"></a>**Canalejo-Molero, Á.** *Disruptive Elections and their Implications for Satisfaction with Democracy* (Working paper available upon request)
 
+<div style="margin-top: 40px;"></div>
+
 ## Work in progress
+
+<div style="margin-top: 20px;"></div>
 
 - <a id="regional-anchor"></a>The Spillover Effects of Center-Periphery Dynamics on Politically Disenfranchised Regions (with Padilla Moreno-Torres, J.& López Ortega, A.)
 
@@ -43,8 +53,12 @@ nav_order: 2
 
 - <a id="digipol-mobil-anchor"></a>Can Parties Mobilize Voters over Digitalization Issues? (with van Ditmars, M. M. & Trechsel, A. H.)
 
+<div style="margin-top: 40px;"></div>
+
 
 ## PhD Dissertation
+
+<div style="margin-top: 20px;"></div>
 
 &nbsp; I defended my PhD dissertation at the [European University Institute](https://www.eui.eu/en/home) in June 2023. The thesis is published in an open repository in EUI Cadmus. You can click the hyperlink to access my dissertation:
 
@@ -52,7 +66,11 @@ nav_order: 2
 
 &nbsp; ------ Committee: Hanspeter Kriesi (supervisor), Elias Dinas, Chris J. Anderson, Ruth Dassonneville
 
+<div style="margin-top: 40px;"></div>
+
 ## Research Grants
+
+<div style="margin-top: 20px;"></div>
 
 &nbsp; This is the list of research grants that I have secured in competitive processes as PI or co-PI:
 
@@ -62,7 +80,12 @@ nav_order: 2
 
 - EUI Mission Funding for Research Activities (**2,547€**), with Morgan Le Corre Juratic (2022)
 
-## Additional Research Team Experience
+<div style="margin-top: 40px;"></div>
+
+
+## Additional Experience in Research Projects
+
+<div style="margin-top: 20px;"></div>
 
 &nbsp; <a id="digipol-anchor"></a>Since 2022, I have been part of the project [DIGIPOL](https://www.unilu.ch/en/faculties/faculty-of-humanities-and-social-sciences/institutes-departements-and-research-centres/department-of-political-science/research/digitalization-and-political-conflict-parties-voters-and-electoral-alignment-digipol/), funded by the [Swiss National Science Foundation](https://www.snf.ch/en) and led by Prof. Alexander H. Trechsel. DIGIPOL explores the early politicization—or lack thereof—of digitalization issues from both the demand and supply sides, with a specific focus on Switzerland. Since June 2023, I have served as the Scientific Coordinator of the project.
 

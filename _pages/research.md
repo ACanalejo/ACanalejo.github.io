@@ -11,7 +11,7 @@ nav_order: 2
 
 <div style="margin-top: 20px;"></div>
 
-&nbsp; <a id="salf-anchor"></a>Moreno-Torres, J. P., **Canalejo-Molero, Á.**, & López Ortega, A. (2025). When the party is over: Explaining the rise of the Spanish far-right SALF. *Research & Politics, 12*(3). [[https://doi.org/10.1177/20531680251357602](https://doi.org/10.1177/20531680251357602)]
+&nbsp; <a id="salf-anchor"></a>Moreno-Torres, J. P., **Canalejo-Molero, Á.**, & López Ortega, A. (2025). When the party is over: Explaining the rise of the Spanish far-right SALF. *Research & Politics, 12*(3). [https://doi.org/10.1177/20531680251357602](https://doi.org/10.1177/20531680251357602)
 
 <div style="margin-top: 40px;"></div>
 

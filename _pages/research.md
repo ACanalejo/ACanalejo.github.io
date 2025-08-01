@@ -2,7 +2,7 @@
 layout: page
 permalink: /research/
 title: Research
-description: Here, you can explore my ongoing and published research, including working papers, projects in progress, a link to my PhD dissertation, research grants I have secured as Principal Investigator (PI), and additional experience in collaborative research projects.
+description: Here, you can explore my ongoing and published research, including peer-reviewed publications, working papers, projects in progress, my PhD dissertation, research grants I have secured as Principal Investigator (PI), and additional experience in collaborative research projects.
 nav: true
 nav_order: 2
 ---

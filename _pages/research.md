@@ -11,7 +11,7 @@ nav_order: 2
 
 <div style="margin-top: 20px;"></div>
 
-&nbsp; <a id="salf-anchor"></a>Padilla Moreno-Torres, J., **Canalejo-Molero, Á.** & López Ortega, A. *When the Party is Over: Explaining the Rise of the Spanish Far-Right SALF*  (Conditionally accepted at *Research & Politics*)
+&nbsp; <a id="salf-anchor"></a>Moreno-Torres, J. P., **Canalejo-Molero, Á.**, & López Ortega, A. (2025). When the party is over: Explaining the rise of the Spanish far-right SALF. *Research & Politics, 12*(3). [[https://doi.org/10.1177/20531680251357602](https://doi.org/10.1177/20531680251357602)]
 
 <div style="margin-top: 40px;"></div>
 
@@ -31,11 +31,11 @@ nav_order: 2
 
 &nbsp; <a id="depol-euandi-anchor"></a>Ferreira da Silva, F., **Canalejo-Molero, Á.**, Cicchi, L., Garzia, D., Reiljan, A. & Trechsel A. H. *Reducing partisan animosity with Voting Advice Applications (VAAs)* (Under review)
 
-&nbsp; <a id="parl-entry-anchor"></a>**Canalejo-Molero, Á.** *Boost or Backlash? The Heterogeneous Effects of Parliamentary Representation on Satisfaction with Democracy* [[Preprint](https://osf.io/ekymh)]
+&nbsp; <a id="digipol-demand-anchor"></a>**Canalejo-Molero, Á.,** Bürgisser, R., van Ditmars, M. M. & Trechsel, A. H. *The Political Conflict Potential of Digitalization* (Under review)
 
 &nbsp; <a id="losers-consent-anchor"></a>Le Corre Juratic, M. & **Canalejo-Molero, Á.** *Assessing the Severity and Nature of Losers’ Consent Erosion in Polarized Societies* (Working paper available upon request)
 
-&nbsp; <a id="digipol-demand-anchor"></a>**Canalejo-Molero, Á.,** Bürgisser, R., van Ditmars, M. M. & Trechsel, A. H. *The Political Conflict Potential of Digitalization* (Working paper available upon request)
+&nbsp; <a id="parl-entry-anchor"></a>**Canalejo-Molero, Á.** *Boost or Backlash? The Heterogeneous Effects of Parliamentary Representation on Satisfaction with Democracy* [[Preprint](https://osf.io/ekymh)]
 
 &nbsp; <a id="new-party-anchor"></a>**Canalejo-Molero, Á.** *Does New Party Entry Increase Electoral Turnout? Quasi-Experimental Evidence from the 2015 Spanish Local Elections* (Working paper available upon request)
 

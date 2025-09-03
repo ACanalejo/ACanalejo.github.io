@@ -7,6 +7,8 @@ nav: true
 nav_order: 4
 ---
 
+- [Un año de Alvise como eurodiputado: promesas incumplidas, conflictos y una caída en picado en las encuestas](https://cadenaser.com/nacional/2025/08/26/un-ano-de-alvise-como-eurodiputado-promesas-incumplidas-conflictos-y-una-caida-en-picado-en-las-encuestas-cadena-ser/), *Cadena Ser* (2025)
+
 - [El test para orientar tu voto en las elecciones europeas](https://www.elperiodico.com/es/politica/20240608/test-orientar-voto-elecciones-europeas-9j-dv-103484468), *ElPeriódico* (2024)
 
 - [A quién votar en las elecciones europeas: el test para saber el partido con el que te identificas](https://www.ondacero.es/elecciones/europeas/quien-votar-elecciones-europeas-test-saber-partido-que-identificas_202406076662b9798fd52100010aeba8.html), *OndaCero* (2024)

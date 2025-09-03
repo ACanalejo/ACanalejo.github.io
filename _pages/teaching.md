@@ -11,7 +11,7 @@ nav_order: 3
 
 <div style="margin-top: 20px;"></div>
 
-&nbsp; [Research Design and Methods in Quantitative Research](https://github.com/ACanalejo/rdmqr_unilu2024), University of Lucerne (2024)
+&nbsp; [Research Design and Methods in Quantitative Research](https://github.com/ACanalejo/rdmqr_unilu2024), University of Lucerne (2024, 2025)
 
 <div style="margin-top: 40px;"></div>
 

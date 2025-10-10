@@ -11,7 +11,7 @@ nav_order: 2
 
 <div style="margin-top: 20px;"></div>
 
-&nbsp; <a id="salf-anchor"></a>Moreno-Torres, J. P., **Canalejo-Molero, Á.**, & López Ortega, A. (2025). When the party is over: Explaining the rise of the Spanish far-right SALF. *Research & Politics, 12*(3). [https://doi.org/10.1177/20531680251357602](https://doi.org/10.1177/20531680251357602)
+&nbsp; <a id="salf-anchor"></a>Moreno-Torres, J. P., Canalejo-Molero, Á., & López Ortega, A. (2025). When the party is over: Explaining the rise of the Spanish far-right SALF. *Research & Politics, 12*(3). [https://doi.org/10.1177/20531680251357602](https://doi.org/10.1177/20531680251357602)
 
 <div style="margin-top: 40px;"></div>
 
@@ -19,13 +19,15 @@ nav_order: 2
 
 <div style="margin-top: 20px;"></div>
 
+&nbsp; <a id="elites-anchor"></a>Padilla-Galviz, E. S. & **Canalejo-Molero, Á.** *Does Losing Affect Democratic Attitudes and Preferences among Rank-and-File Politicians? A Comparative Study in 27 Elections*  (Revise and resubmit, *EJPR*)
+
 &nbsp; <a id="radical-entry-anchor"></a>**Canalejo-Molero, Á.** & Le Corre Juratic, M. *Blinded by Out-group Hatred. Why does Radical Party Entry Reduce its Voters’ Satisfaction with Democracy* [[Preprint](https://osf.io/7bfka)] (Under review)
 
 &nbsp; --- Djøf Forlag prize for the best paper presented by a junior researcher at the 2023 Danish Political Science Association conference
 
 &nbsp; --- Wilson award for the best paper on French politics presented at the 2022 APSA meeting
 
-&nbsp; <a id="elites-anchor"></a>Padilla-Galviz, E. S. & **Canalejo-Molero, Á.** *Does Losing Affect Democratic Attitudes and Preferences among Rank-and-File Politicians? A Comparative Study in 27 Elections*  (Under review)
+&nbsp; <a id="losers-consent-anchor"></a>Le Corre Juratic, M. & **Canalejo-Molero, Á.** *Assessing the Severity and Nature of Losers’ Consent Erosion in Polarized Societies* (Under review)
 
 &nbsp; <a id="depol-survey-anchor"></a>**Canalejo-Molero, Á.**, Cicchi, L., Ferreira da Silva, F., Garzia, D., Reiljan, A. & Trechsel A. H.  *Priming Common European and Democratic Values Does Not Reduce Affective Polarization* (Under review)
 
@@ -33,9 +35,9 @@ nav_order: 2
 
 &nbsp; <a id="digipol-demand-anchor"></a>**Canalejo-Molero, Á.,** Bürgisser, R., van Ditmars, M. M. & Trechsel, A. H. *The Political Conflict Potential of Digitalization* (Under review)
 
-&nbsp; <a id="losers-consent-anchor"></a>Le Corre Juratic, M. & **Canalejo-Molero, Á.** *Assessing the Severity and Nature of Losers’ Consent Erosion in Polarized Societies* (Working paper available upon request)
-
 &nbsp; <a id="parl-entry-anchor"></a>**Canalejo-Molero, Á.** *Boost or Backlash? The Heterogeneous Effects of Parliamentary Representation on Satisfaction with Democracy* [[Preprint](https://osf.io/ekymh)]
+
+&nbsp; <a id="regional-anchor"></a>**Canalejo-Molero, Á.**, López Ortega, A. & Moreno-Torres, J. P. *The Spillover Politics of Asymmetric Devolution: Evidence from Spain* (Working paper available upon request)
 
 &nbsp; <a id="new-party-anchor"></a>**Canalejo-Molero, Á.** *Does New Party Entry Increase Electoral Turnout? Quasi-Experimental Evidence from the 2015 Spanish Local Elections* (Working paper available upon request)
 
@@ -46,8 +48,6 @@ nav_order: 2
 ## Work in progress
 
 <div style="margin-top: 20px;"></div>
-
-- <a id="regional-anchor"></a>The Spillover Effects of Center-Periphery Dynamics on Politically Disenfranchised Regions (with Padilla Moreno-Torres, J.& López Ortega, A.)
 
 - <a id="digipol-supply-anchor"></a>The Politicization of Digitalization (with Flechtner, M. & Trechsel, A. H.)
 

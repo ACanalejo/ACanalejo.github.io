@@ -31,4 +31,4 @@ nav_order: 3
 
 <div style="margin-top: 20px;"></div>
 
-&nbsp; In addition to teaching, I supervise Bachelor’s and Master’s theses. To date, I have supervised (or am currently supervising) **seven** BA theses and **five** MA theses at the University of Lucerne.
+&nbsp; In addition to teaching, I supervise Bachelor’s and Master’s theses. To date, I have supervised (or am currently supervising) **ten** BA theses and **twelve** MA theses at the University of Lucerne.

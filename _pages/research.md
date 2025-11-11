@@ -21,6 +21,8 @@ nav_order: 2
 
 &nbsp; <a id="elites-anchor"></a>Padilla-Galviz, E. S. & **Canalejo-Molero, Á.** *Does Losing Affect Democratic Attitudes and Preferences among Rank-and-File Politicians? A Comparative Study in 27 Elections*  (Revise and resubmit, *EJPR*)
 
+&nbsp; <a id="depol-survey-anchor"></a>**Canalejo-Molero, Á.**, Cicchi, L., Ferreira da Silva, F., Garzia, D., Reiljan, A. & Trechsel A. H.  *Priming Common European and Democratic Values Does Not Reduce Affective Polarization* (Revise and resubmit, *EPSR*)
+
 &nbsp; <a id="radical-entry-anchor"></a>**Canalejo-Molero, Á.** & Le Corre Juratic, M. *Blinded by Out-group Hatred. Why does Radical Party Entry Reduce its Voters’ Satisfaction with Democracy* [[Preprint](https://osf.io/7bfka)] (Under review)
 
 &nbsp; --- Djøf Forlag prize for the best paper presented by a junior researcher at the 2023 Danish Political Science Association conference
@@ -28,8 +30,6 @@ nav_order: 2
 &nbsp; --- Wilson award for the best paper on French politics presented at the 2022 APSA meeting
 
 &nbsp; <a id="losers-consent-anchor"></a>Le Corre Juratic, M. & **Canalejo-Molero, Á.** *Assessing the Severity and Nature of Losers’ Consent Erosion in Polarized Societies* (Under review)
-
-&nbsp; <a id="depol-survey-anchor"></a>**Canalejo-Molero, Á.**, Cicchi, L., Ferreira da Silva, F., Garzia, D., Reiljan, A. & Trechsel A. H.  *Priming Common European and Democratic Values Does Not Reduce Affective Polarization* (Under review)
 
 &nbsp; <a id="depol-euandi-anchor"></a>Ferreira da Silva, F., **Canalejo-Molero, Á.**, Cicchi, L., Garzia, D., Reiljan, A. & Trechsel A. H. *Reducing partisan animosity with Voting Advice Applications (VAAs)* (Under review)
 

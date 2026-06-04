@@ -11,6 +11,8 @@ nav_order: 2
 
 <div style="margin-top: 20px;"></div>
 
+&nbsp; <a id="depol-survey-anchor"></a>Canalejo-Molero, Á., Cicchi, L., Ferreira da Silva, F., Garzia, D., Reiljan, A., & Trechsel, A. H. (2026). Priming common European and democratic values does not reduce affective polarization. *European Political Science Review*, 1–20. [doi:10.1017/S1755773926100496](doi:10.1017/S1755773926100496)
+
 &nbsp; <a id="salf-anchor"></a>Moreno-Torres, J. P., Canalejo-Molero, Á., & López Ortega, A. (2025). When the party is over: Explaining the rise of the Spanish far-right SALF. *Research & Politics, 12*(3). [https://doi.org/10.1177/20531680251357602](https://doi.org/10.1177/20531680251357602)
 
 <div style="margin-top: 40px;"></div>
@@ -19,11 +21,9 @@ nav_order: 2
 
 <div style="margin-top: 20px;"></div>
 
-&nbsp; <a id="elites-anchor"></a>Padilla-Galviz, E. S. & **Canalejo-Molero, Á.** *Does Losing Affect Democratic Attitudes and Preferences among Rank-and-File Politicians? A Comparative Study in 27 Elections*  (Revise and resubmit, *EJPR*)
+&nbsp; <a id="elites-anchor"></a>Padilla-Galviz, E. S. & **Canalejo-Molero, Á.** *Does Losing Affect Democratic Attitudes and Preferences among Rank-and-File Politicians? A Comparative Study in 27 Elections*  (Forthcoming, *EJPR*)
 
-&nbsp; <a id="depol-survey-anchor"></a>**Canalejo-Molero, Á.**, Cicchi, L., Ferreira da Silva, F., Garzia, D., Reiljan, A. & Trechsel A. H.  *Priming Common European and Democratic Values Does Not Reduce Affective Polarization* (Revise and resubmit, *EPSR*)
-
-&nbsp; <a id="radical-entry-anchor"></a>**Canalejo-Molero, Á.** & Le Corre Juratic, M. *Blinded by Out-group Hatred. Why does Radical Party Entry Reduce its Voters’ Satisfaction with Democracy* [[Preprint](https://osf.io/7bfka)] (Under review)
+&nbsp; <a id="radical-entry-anchor"></a>**Canalejo-Molero, Á.** & Le Corre Juratic, M. *Blinded by Out-group Hatred. Why does Radical Party Entry Reduce its Voters’ Satisfaction with Democracy* [[Preprint](https://osf.io/7bfka)] (Revise & resubmit, *EPSR*)
 
 &nbsp; --- Djøf Forlag prize for the best paper presented by a junior researcher at the 2023 Danish Political Science Association conference
 
@@ -31,9 +31,9 @@ nav_order: 2
 
 &nbsp; <a id="losers-consent-anchor"></a>Le Corre Juratic, M. & **Canalejo-Molero, Á.** *Assessing the Severity and Nature of Losers’ Consent Erosion in Polarized Societies* (Under review)
 
-&nbsp; <a id="depol-euandi-anchor"></a>Ferreira da Silva, F., **Canalejo-Molero, Á.**, Cicchi, L., Garzia, D., Reiljan, A. & Trechsel A. H. *Reducing partisan animosity with Voting Advice Applications (VAAs)* (Under review)
+&nbsp; <a id="digipol-demand-anchor"></a>**Canalejo-Molero, Á.,** Bürgisser, R., van Ditmars, M. M. & Trechsel, A. H. *The Political Conflict Potential of Digitalization* (Working paper available upon request)
 
-&nbsp; <a id="digipol-demand-anchor"></a>**Canalejo-Molero, Á.,** Bürgisser, R., van Ditmars, M. M. & Trechsel, A. H. *The Political Conflict Potential of Digitalization* (Under review)
+&nbsp; <a id="depol-euandi-anchor"></a>Ferreira da Silva, F., **Canalejo-Molero, Á.**, Cicchi, L., Garzia, D., Reiljan, A. & Trechsel A. H. *Reducing partisan animosity with Voting Advice Applications (VAAs)* (Working paper available upon request)
 
 &nbsp; <a id="parl-entry-anchor"></a>**Canalejo-Molero, Á.** *Boost or Backlash? The Heterogeneous Effects of Parliamentary Representation on Satisfaction with Democracy* [[Preprint](https://osf.io/ekymh)]
 

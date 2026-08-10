@@ -15,7 +15,7 @@ children:
     permalink: /research/
   - title: divider
   - title: Teaching
-    permalink: /publications/
+    permalink: /teaching/
   - title: divider
   - title: Outreach
     permalink: /outreach/

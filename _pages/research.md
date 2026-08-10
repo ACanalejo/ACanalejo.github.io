@@ -11,23 +11,24 @@ nav_order: 2
 
 <div style="margin-top: 20px;"></div>
 
-&nbsp; 1. <a id="radical-entry-anchor"></a>Le Corre Juratic, M., & Canalejo-Molero, Á. (2026). Blinded by out-group hatred: Why does radical party entry fail to boost its voters' satisfaction with democracy? *European Political Science Review*, 1–20. [https://doi.org/10.1017/S1755773926100575](https://doi.org/10.1017/S1755773926100575)
+&nbsp; 1. <a id="elites-anchor"></a> Padilla-Galviz, ES., & Canalejo-Molero, Á. (2026). The winner–loser gap in democratic attitudes among
+politicians: Individual and collective outcomes. *European Journal of Political Research*, 1–22. [https://doi.org/10.1017/S1475676526101662](https://doi.org/10.1017/S1475676526101662)
 
-&nbsp; --- Djøf Forlag prize for the best paper presented by a junior researcher at the 2023 Danish Political Science Association conference
+&nbsp; 2. <a id="radical-entry-anchor"></a>Le Corre Juratic, M., & Canalejo-Molero, Á. (2026). Blinded by out-group hatred: Why does radical party entry fail to boost its voters' satisfaction with democracy? *European Political Science Review*, 1–20. [https://doi.org/10.1017/S1755773926100575](https://doi.org/10.1017/S1755773926100575)
 
-&nbsp; --- Wilson award for the best paper on French politics presented at the 2022 APSA meeting
+&nbsp; --- Djøf Forlag Prize for the best paper presented by a junior researcher at the 2023 [DPSA](https://dpsa.dk/) conference
 
-&nbsp; 2. <a id="depol-survey-anchor"></a>Canalejo-Molero, Á., Cicchi, L., Ferreira da Silva, F., Garzia, D., Reiljan, A., & Trechsel, A. H. (2026). Priming common European and democratic values does not reduce affective polarization. *European Political Science Review*, 1–20. [doi:10.1017/S1755773926100496](doi:10.1017/S1755773926100496)
+&nbsp; --- Wilson Award for the best paper on French politics presented at the 2022 [APSA](https://apsanet.org/) meeting
 
-&nbsp; 3. <a id="salf-anchor"></a>Moreno-Torres, J. P., Canalejo-Molero, Á., & López Ortega, A. (2025). When the party is over: Explaining the rise of the Spanish far-right SALF. *Research & Politics, 12*(3). [https://doi.org/10.1177/20531680251357602](https://doi.org/10.1177/20531680251357602)
+&nbsp; 3. <a id="depol-survey-anchor"></a>Canalejo-Molero, Á., Cicchi, L., Ferreira da Silva, F., Garzia, D., Reiljan, A., & Trechsel, A. H. (2026). Priming common European and democratic values does not reduce affective polarization. *European Political Science Review*, 1–20. [doi:10.1017/S1755773926100496](doi:10.1017/S1755773926100496)
+
+&nbsp; 4. <a id="salf-anchor"></a>Moreno-Torres, J. P., Canalejo-Molero, Á., & López Ortega, A. (2025). When the party is over: Explaining the rise of the Spanish far-right SALF. *Research & Politics, 12*(3). [https://doi.org/10.1177/20531680251357602](https://doi.org/10.1177/20531680251357602)
 
 <div style="margin-top: 40px;"></div>
 
 ## Working papers
 
 <div style="margin-top: 20px;"></div>
-
-&nbsp; <a id="elites-anchor"></a>Padilla-Galviz, E. S. & **Canalejo-Molero, Á.** *Does Losing Affect Democratic Attitudes and Preferences among Rank-and-File Politicians? A Comparative Study in 27 Elections*  (Forthcoming, *EJPR*)
 
 &nbsp; <a id="losers-consent-anchor"></a>Le Corre Juratic, M. & **Canalejo-Molero, Á.** *Assessing the Severity and Nature of Losers’ Consent Erosion in Polarized Societies* (Under review)
 

@@ -21,7 +21,7 @@ social: true # includes social icons at the bottom of the page
 
 <div style="margin-top: 35px;"></div>
 
-<div markdown="1">
+<div markdown="1" style="text-align: justify;">
 
 I am a political scientist from Córdoba, Spain, studying the foundations of political attitudes and behavior. I currently work as a Postdoctoral Researcher at the Chair of Political Behaviour and Communication of the University of Lucerne, and as part of the SNSF-funded project DIGIPOL. My research has been published in the *European Journal of Political Research*, *Research & Politics*, and the *European Political Science Review*.
 

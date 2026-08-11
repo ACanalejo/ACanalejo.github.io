@@ -242,6 +242,7 @@ ul.task-list input[type="checkbox"] {
     margin-bottom: 5px;
     margin-top: 5px;
     font-family: monospace;
+    visibility: hidden; // kept in the layout (not deleted) so its height still pushes the bio text into a side column next to the photo
 
     p {
       display: inline-block;

@@ -13,7 +13,21 @@
       {% endif %}
       <div class="card-body">
         <h2 class="card-title">{{ project.title }}</h2>
-        <p class="card-text">{{ project.description }}</p>
+        {% if project.level %}
+          <div class="card-text">
+            {% assign level_color = null %}
+            {% if site.data.course_levels[project.level].color %}
+              {% assign level_color = site.data.course_levels[project.level].color %}
+            {% endif %}
+            <abbr class="badge rounded" {% if level_color %}style="background-color: {{ level_color }};"{% endif %}>{{ project.level }}</abbr>
+            <abbr class="badge rounded" style="background-color: var(--global-text-color-light);">{{ project.years }}</abbr>
+          </div>
+          {% if project.university %}
+            <div style="font-size: 0.8em; color: var(--global-text-color-light); margin-top: 6px;">{{ project.university }}</div>
+          {% endif %}
+        {% else %}
+          <p class="card-text">{{ project.description }}</p>
+        {% endif %}
         <div class="row ml-1 mr-1 p-0">
           {% if project.github %}
             <div class="github-icon">

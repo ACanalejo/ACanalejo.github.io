@@ -8,18 +8,21 @@ children:
   - title: Home
     permalink: /about/
   - title: divider
-  - title: CV
-    permalink: /cv/
+  - title: Publications
+    permalink: /publications/
   - title: divider
-  - title: Research
+  - title: Ongoing Work
     permalink: /research/
   - title: divider
-  - title: Teaching
-    permalink: /teaching/
+  - title: Research Grants
+    permalink: /research-grants/
   - title: divider
   - title: Outreach
     permalink: /outreach/
   - title: divider
-  - title: Software
-    permalink: /software/
+  - title: Teaching
+    permalink: /teaching/
+  - title: divider
+  - title: CV
+    permalink: /cv/
 ---

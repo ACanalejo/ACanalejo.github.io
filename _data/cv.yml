@@ -1,5 +1,8 @@
 - type: pdf
   title: Curriculum Vitae
   contents:
+    # Locally hosted so the PDF renders inline instead of forcing a download
+    # (GitHub's raw file server sends Content-Disposition: attachment).
+    # Manually synced from the Quarto CV project for now; keep in sync when the CV updates.
     - description: Download my full CV as a PDF.
-      file: https://github.com/ACanalejo/curriculum_vitae/raw/main/long_cv/long_cv_canalejo.pdf
+      file: /assets/pdf/long_cv_canalejo.pdf

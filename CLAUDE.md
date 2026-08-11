@@ -48,15 +48,19 @@ added, removed, or restructured since this was written.
 
 | File | Live URL | Content source |
 |---|---|---|
-| `about.md` | `/` (Home) | Inline markdown — bio, research interest summaries with anchor links to research page |
-| `research.md` | `/research/` | Inline markdown — publications, working papers, WIP, dissertation, grants, project involvement |
-| `teaching.md` | `/teaching/` | Inline markdown — course listings with GitHub links, supervision counts |
+| `about.md` | `/` (Home) | Inline markdown — single integrated bio in a few paragraphs (no subsections/headings), heavily hyperlinked including inline links out to specific Publications/Work in Progress entries |
+| `publications.md` | `/publications/` | jekyll-scholar `{% bibliography %}` tags pulling from `_bibliography/papers.bib` |
+| `research.md` | `/research/` | Inline markdown, titled "Work in Progress" — working papers and ongoing (unpublished) projects only |
+| `research-grants.md` | `/research-grants/` | Inline markdown — grants/projects as PI vs. as non-PI |
+| `teaching.md` | `/teaching/` | Inline markdown — course listings with GitHub links, supervision counts, and a "Teaching Resources" section embedding the ShinyApps iframes (moved from the former `software.md`) |
 | `outreach.md` | `/outreach/` | Inline markdown — reverse-chronological media appearances |
-| `software.md` | `/software/` | Inline markdown + embedded ShinyApps iframes |
-| `cv.md` | `/cv/` | Front matter only (`cv_pdf:` URL); rendered by `_layouts/cv.liquid` from `_data/cv.yml` |
+| `cv.md` | `/cv/` | Front matter only (`cv_pdf:` URL); rendered by `_layouts/cv.liquid` from `_data/cv.yml` — shows an inline PDF embed plus a download button |
 | `dropdown.md` | (navbar) | Front matter only — defines the navbar dropdown and its child links |
 | `blog.md` | `/blog/` | Layout wrapper — lists `_posts/`; currently empty (no posts exist) |
 | `404.md` | `/404.html` | Static error page |
+
+Navbar order: Publications, Work in Progress, Research Grants, Outreach, Teaching, CV.
+There is no standalone Software page — its two ShinyApps iframes now live under Teaching.
 
 If a page has been added or removed since this was written, update this table.
 
@@ -65,7 +69,9 @@ If a page has been added or removed since this was written, update this table.
 | File | Purpose |
 |---|---|
 | `socials.yml` | Social profile links rendered in the footer/about page |
-| `cv.yml` | CV page content — currently a single PDF download entry pointing to an external GitHub repo |
+| `cv.yml` | CV page content — a single PDF entry pointing to the locally hosted `assets/pdf/long_cv_canalejo.pdf` (manually synced from the Quarto CV project; GitHub raw URLs force a download instead of rendering inline, so keep this local) |
+| `venues.yml` | Background colors for journal-abbreviation badges on the Publications page (`_layouts/bib.liquid` reads `site.data.venues[entry.abbr].color`) — add an entry here whenever a new journal abbreviation is used in `_bibliography/papers.bib`, or its badge renders invisible (white text, no background) |
+| `outlets.yml` | Background colors for the outlet tag badges on `_pages/outreach.md` — add an entry whenever a new outlet is added |
 
 ### Key `_config.yml` settings to know
 
@@ -73,14 +79,14 @@ If a page has been added or removed since this was written, update this table.
   match the site owner's actual name
 - `announcements: enabled` — controls whether `_news/` items appear on the home page
 - `latest_posts: enabled` — controls whether recent blog posts appear on the home page
-- `bib_search: enabled` — controls bibliography search; enable when adding a publications page
+- `bib_search: true` — bibliography search on the Publications page, now enabled
 - `display_tags` / `display_categories` — blog taxonomy labels; populate when starting a blog
 
 ### Assets (`assets/`)
 
 - `assets/img/prof_pic.jpg` — main headshot (used in `about.md`)
 - `assets/img/prof_pic_color.png` — color variant (available, not currently in use)
-- `assets/pdf/` — local PDFs if any; the CV is hosted externally on a separate GitHub repo
+- `assets/pdf/long_cv_canalejo.pdf` — the CV, hosted locally so it renders inline instead of downloading; source of truth is still the separate Quarto CV project, manually synced here for now (a future session may migrate the Quarto build into this repo via CI — out of scope until then)
 
 ### Plugins (`_plugins/`)
 
@@ -95,20 +101,6 @@ Custom Ruby plugins that ship with al-folio. Do not modify or delete:
 
 The following exists in the repo but is currently inactive. **Do not remove it.**
 It was kept deliberately to make future features easy to activate.
-
-### Publications page
-
-To add a publications page:
-1. Create `_bibliography/papers.bib` with BibTeX entries
-2. Create `_pages/publications.md` (`layout: page`, `permalink: /publications/`,
-   `nav: true`, body: `{% bibliography %}`)
-3. Set `bib_search: true` in `_config.yml`
-4. Add the page to `_pages/dropdown.md`
-
-Everything else is pre-wired: `jekyll-scholar` is installed, the `scholar:` config block
-has the correct author name for highlighting, publication badges (Altmetric, Dimensions,
-Google Scholar) are configured, and `filtered_bibtex_keywords` / `max_author_limit` are set.
-Update this section once a publications page is live.
 
 ### Blog
 
@@ -144,7 +136,7 @@ this description, trust the pages over this file.
   external resources are nearly always linked inline
 - **Structure:** Long pages use `####` subheadings, `---` dividers, and explicit
   `<div style="margin-top: Xpx;"></div>` spacers for visual rhythm
-- **Emphasis:** `**bold**` for key research concepts; italics used rarely
+- **Emphasis:** `**bold**` for key research concepts; italics used rarely. **Never italicize text inside a hyperlink** — `_sass/_base.scss` sets `em { color: var(--global-text-color) }` globally, which overrides the link color and makes the text render as invisible-looking black instead of a blue link (found when linking journal names in `about.md`; fixed by dropping the italics, not by patching the CSS)
 - **Citations:** Full inline citations with DOIs, award callouts inline
   (e.g., "Winner of the Wilson Award..."), not abbreviated
 - **Tone on research:** Precise about findings and scope — specific empirical claims,

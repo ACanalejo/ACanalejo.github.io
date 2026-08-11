@@ -399,6 +399,7 @@ ul.task-list input[type="checkbox"] {
 
 .social {
   text-align: center;
+  margin-top: 2.5rem;
 
   .contact-icons {
     font-size: 4rem;
@@ -670,6 +671,17 @@ footer.sticky-bottom {
     img {
       width: 100%;
     }
+
+    transition: box-shadow 0.2s ease, transform 0.2s ease;
+
+    &.hoverable:hover {
+      box-shadow: 0 4px 14px rgba(0, 0, 0, 0.12);
+      transform: translateY(-2px);
+    }
+
+    .card-body {
+      padding-bottom: 1rem;
+    }
   }
 
   .col {
@@ -716,9 +728,12 @@ footer.sticky-bottom {
   h2.bibliography {
     color: var(--global-divider-color);
     border-top: 1px solid var(--global-divider-color);
-    padding-top: 1rem;
-    margin-top: 2rem;
+    padding-top: 0.5rem;
+    margin-top: 1.5rem;
+    margin-bottom: 0.5rem;
     text-align: right;
+    font-size: 1.1rem;
+    font-weight: 600;
   }
 
   ol.bibliography {

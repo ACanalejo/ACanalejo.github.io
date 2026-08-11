@@ -2,28 +2,46 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Below is a list of the courses I have taught. All my courses follow an open-science approach, with non-sensitive materials published on public GitHub repositories. If you're interested in any of my courses, click the hyperlinks to access their corresponding GitHub repositories.
+description: Course descriptions and teaching materials.
 nav: true
-nav_order: 3
+nav_order: 5
 ---
 
-## Graduate-Level Courses
+## Courses
 
 <div style="margin-top: 20px;"></div>
 
-&nbsp; [Research Design and Methods in Quantitative Research](https://github.com/ACanalejo/rdmqr_unilu2024), University of Lucerne (2024, 2025)
+&nbsp; All my courses follow an open-science approach, with non-sensitive materials published on public GitHub repositories — click through each card to access the corresponding repository.
+
+<div style="margin-top: 20px;"></div>
+
+<div class="projects">
+  <div class="row row-cols-1 row-cols-md-2">
+    {% assign courses = site.projects | where: "category", "courses" | sort: "importance" %}
+    {% for project in courses %}
+      {% include projects.liquid %}
+    {% endfor %}
+  </div>
+</div>
 
 <div style="margin-top: 40px;"></div>
 
-## Undergraduate-Level Courses
+## Interactive Materials
 
 <div style="margin-top: 20px;"></div>
 
-&nbsp; [Culture and Politics](https://github.com/ACanalejo/politicalculture_unilu2025), University of Lucerne (2024, 2025)  
+&nbsp; I enjoy programming and have integrated this passion into my teaching, creating apps that simplify complex concepts and make them easier to understand. Below are the interactive apps I have developed for my courses — click through to open each one.
 
-&nbsp; [Electoral Behavior and Party Competition: Continuity and Change in Western Europe](https://github.com/ACanalejo/ebpc_unilu2023), University of Lucerne (2023)  
+<div style="margin-top: 20px;"></div>
 
-&nbsp; [Comparative Western European Party Systems: Continuity and Change](https://github.com/ACanalejo/cwps_continuity_and_change_unilu2022), University of Lucerne (2022)
+<div class="projects">
+  <div class="row row-cols-1 row-cols-md-2">
+    {% assign teaching_apps = site.projects | where: "category", "teaching" | sort: "importance" %}
+    {% for project in teaching_apps %}
+      {% include projects.liquid %}
+    {% endfor %}
+  </div>
+</div>
 
 <div style="margin-top: 40px;"></div>
 
@@ -31,4 +49,4 @@ nav_order: 3
 
 <div style="margin-top: 20px;"></div>
 
-&nbsp; In addition to teaching, I supervise Bachelor’s and Master’s theses. To date, I have supervised (or am currently supervising) **ten** BA theses and **twelve** MA theses at the University of Lucerne.
+&nbsp; In addition to teaching, I supervise Bachelor’s and Master’s theses. To date, I have supervised (or am currently supervising) **ten** MA theses (five as main supervisor) and **nine** BA theses (all as main supervisor) at the University of Lucerne.

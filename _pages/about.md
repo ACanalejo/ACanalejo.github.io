@@ -19,50 +19,22 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-<div style="margin-top: 20px;"></div>
+<div style="margin-top: 35px;"></div>
 
-I am a Postdoctoral Researcher at the [University of Lucerne](https://www.unilu.ch/en/), where I contribute to the [SNSF](https://www.snf.ch/en)-funded project [DIGIPOL](https://www.unilu.ch/en/faculties/faculty-of-humanities-and-social-sciences/institutes-departements-and-research-centres/department-of-political-science/research/digitalization-and-political-conflict-parties-voters-and-electoral-alignment-digipol/) and serve as a Senior Researcher at the [Chair of Political Behavior and Communication](https://www.unilu.ch/en/faculties/faculty-of-humanities-and-social-sciences/institutes-departements-and-research-centres/department-of-political-science/staff/prof-dr-alexander-trechsel/#tab=c46508). 
+<div markdown="1">
 
-Since 2023, I hold a [PhD in Political and Social Sciences](https://hdl.handle.net/1814/75692) from the [European University Institute](https://www.eui.eu/en/home). I have also completed research stays at the [London School of Economics and Political Science](https://www.lse.ac.uk/) and with the [DEC group](https://webs.uab.cat/grdec/) at the [Autonomous University of Barcelona](https://www.uab.cat/). In addition, I am a member of the [Digital Society Initiative](https://www.dsi.uzh.ch/en.html) at the [University of Zurich](https://www.uzh.ch/en.html) and of the [ECPR Standing Group on Voting Advice Applications (VAAs)](https://ecpr.eu/group/voting-advice-applications).
+I am a political scientist from Córdoba, Spain, working on the foundations of political attitudes and behavior. I currently serve as a Postdoctoral Researcher at the University of Lucerne, where I am a Senior Researcher at the Chair of Political Behavior and Communication and contribute to the SNSF-funded project DIGIPOL. My research has been featured in the *European Journal of Political Research*, *Research & Politics*, and the *European Political Science Review*.
 
-Originally from [the city with the most UNESCO heritage sites in the world](https://www.architecturaldigest.com/story/cordoba-spain-has-most-unesco-world-heritage-sites)—Córdoba, Spain—I am always open to inquiries or collaborations. Feel free to [contact me](mailto:alvaro.canalejo@unilu.ch). 
+<div style="margin-top: 12px;"></div>
 
-Thanks for visiting!
+Before joining the University of Lucerne, I completed my PhD in Political and Social Sciences at the European University Institute. I have also held visiting positions at the London School of Economics and Political Science and with the DEC group at the Autonomous University of Barcelona. I am a member of the Digital Society Initiative at the University of Zurich and of the ECPR Standing Group on Voting Advice Applications.
 
+<div style="margin-top: 12px;"></div>
 
-<div style="margin-top: 60px;"></div>
+My research follows three main lines. The first examines *how election outcomes shape democratic attitudes and behavior*, from the effect of new party entry on democratic engagement to the winner-loser gap in democratic attitudes among politicians, and the erosion of losers' consent under conditions of polarization. Second, I look at *the politics of digitalization*. With the DIGIPOL project, I have asked whether digital technological change creates a new axis of political conflict, and how political parties are choosing to address it. I have also investigated the effect of Voting Advice Applications on political preferences. Finally, I have a keen interest in *inter-regional conflict*.
 
+<div style="margin-top: 12px;"></div>
 
-## Research Interests
----
+Feel free to [contact me](mailto:alvaro.canalejo@unilu.ch) for any inquiries about my research or for collaborations. Thanks for visiting!
 
-My research lies in the fields of comparative politics, political behavior, and public opinion, with a particular interest in the intersection of party politics, public attitudes, and behavior. I also have a keen interest in research design and methodology, particularly mixed-methods, experimental, and causal inference designs. Below is a summary of my main **research topics**.
-
-<div style="margin-top: 40px;"></div>
-
-#### Elections, Democracy, and Affective Polarization    
-
-<span style="font-size: 0.9em;">
-Since my doctoral studies, I have examined **how election outcomes under conditions of affective polarization shape democratic attitudes and behaviors**. My [dissertation](research/#thesis-anchor) argued that [while new party entry positively impacts democratic engagement](research/#parl-entry-anchor), [this effect is often overshadowed by hostility toward mainstream party winners](research/#radical-entry-anchor). Building on these findings, my current research explores whether [elections create a winner-loser gap among politicians](research/#elites-anchor) and [investigates the mechanisms driving the erosion of losers' consent in polarized societies](research/#losers-consent-anchor). Concerned about the negative implications of partisan animosity for democracy, I also study the potential of [depolarizing interventions in multi-party systems](research/#depol-survey-anchor), including the [effectiveness of tools such as Voting Advice Applications](research/#depol-euandi-anchor).  
-</span>
-
-<div style="margin-top: 40px;"></div>
-
-#### The Politics of Digitalization  
-
-<span style="font-size: 0.9em;">
-Following my PhD, I have developed a research agenda focused on the politics of digitalization. Moving from the supply to the demand side of electoral politics, the adoption of digital technologies has proven to effect electoral behavior, but its politicization has been limited nevertheless. In the DIGIPOL project we investigate **whether [digitalization creates fertile ground for a new political conflict](research/#digipol-demand-anchor)** and [how political parties address digitalization issues](research/#digipol-supply-anchor), an increasingly pressing topic given the shift toward AI.
-</span>
-
-<div style="margin-top: 40px;"></div>
-
-#### Spanish Politics and Regional Identities  
-
-<span style="font-size: 0.9em;">
-Finally, I have a keen interest in Spanish politics ([1](research/#salf-anchor), [2](research/#new-party-anchor)), particularly **the role of [multiple national and regional identities in shaping political behavior and democratic commitment](research/#regional-anchor)**. My research seeks to deepen our understanding of how these overlapping identities contribute to political disaffection and explore whether the design of asymmetric federal institutions can mitigate such challenges.
-</span>
-
-<div style="margin-top: 80px;"></div>
-
-
-
+</div>

@@ -23,6 +23,49 @@ hr {
   border-top: 1px solid var(--global-divider-color);
 }
 
+// Fonts
+
+body {
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}
+
+h1,
+h2,
+h3,
+.post-title,
+.card-title,
+h2.bibliography,
+.navbar-brand.title {
+  font-family: "Source Serif 4", Georgia, "Times New Roman", serif;
+  font-size: 1.05rem;
+}
+
+.post-title {
+  font-size: 1.9rem;
+}
+
+h2 {
+  font-size: 1.5rem;
+}
+
+h3,
+.card-title {
+  font-size: 1.15rem;
+}
+
+// Tinted badges (journal abbreviations, outlet tags, course levels)
+
+.badge-tinted {
+  display: inline-block;
+  background-color: var(--global-theme-tint);
+  color: var(--global-theme-color);
+  border: 1px solid var(--global-theme-color);
+  border-radius: 3px;
+  padding: 2px 9px;
+  font-size: 0.72rem;
+  font-weight: 600;
+}
+
 table {
   td,
   th {
@@ -752,16 +795,7 @@ footer.sticky-bottom {
 
         abbr {
           display: inline-block;
-          background-color: var(--global-theme-color);
           margin-bottom: 0.5rem;
-
-          a {
-            color: white;
-
-            &:hover {
-              text-decoration: none;
-            }
-          }
         }
 
         .award {

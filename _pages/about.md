@@ -27,11 +27,11 @@ I am a political scientist from Córdoba, Spain, studying the foundations of pol
 
 <div style="margin-top: 12px;"></div>
 
-Before joining the University of Lucerne, I completed my PhD in Political and Social Sciences at the European University Institute. I have also held visiting positions at the London School of Economics and Political Science and at the Autonomous University of Barcelona, and I am a member of the Digital Society Initiative at the University of Zurich.
+Before joining the University of Lucerne, I completed a PhD in Political and Social Sciences from the European University Institute (2023). I have also held visiting positions at the London School of Economics and Political Science and at the Autonomous University of Barcelona, and I am a member of the Digital Society Initiative at the University of Zurich.
 
 <div style="margin-top: 12px;"></div>
 
-My research follows three main lines. The first examines how election outcomes shape democratic attitudes and behavior, with a particular focus on the conditions facilitating losers to consent to their defeat. Second, with DIGIPOL, I have explored the potential for political conflict of digital technological change. Finally, I have a keen interest in identities and representation, with a focus on inter-regional conflict and the formation of devolution preferences.
+My research spans three main topics. The first is how election outcomes shape democratic attitudes and behavior, with a particular focus on the conditions weakening losers to consent to their defeat. Second, with DIGIPOL, I have explored the potential for political conflict of digital technological change. Finally, I have a keen interest in identities and representation, with a focus on inter-regional conflict and the formation of devolution preferences.
 
 <div style="margin-top: 12px;"></div>
 

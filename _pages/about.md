@@ -23,15 +23,15 @@ social: true # includes social icons at the bottom of the page
 
 <div markdown="1">
 
-I am a political scientist from Córdoba, Spain, working on the foundations of political attitudes and behavior. I currently serve as a Postdoctoral Researcher at the University of Lucerne, where I am a Senior Researcher at the Chair of Political Behavior and Communication and contribute to the SNSF-funded project DIGIPOL. My research has been featured in the *European Journal of Political Research*, *Research & Politics*, and the *European Political Science Review*.
+I am a political scientist from Córdoba, Spain, studying the foundations of political attitudes and behavior. I currently work as a Postdoctoral Researcher at the Chair of Political Behaviour and Communication of the University of Lucerne, and as part of the SNSF-funded project DIGIPOL. My research has been published in the *European Journal of Political Research*, *Research & Politics*, and the *European Political Science Review*.
 
 <div style="margin-top: 12px;"></div>
 
-Before joining the University of Lucerne, I completed my PhD in Political and Social Sciences at the European University Institute. I have also held visiting positions at the London School of Economics and Political Science and with the DEC group at the Autonomous University of Barcelona. I am a member of the Digital Society Initiative at the University of Zurich and of the ECPR Standing Group on Voting Advice Applications.
+Before joining the University of Lucerne, I completed my PhD in Political and Social Sciences at the European University Institute. I have also held visiting positions at the London School of Economics and Political Science and at the Autonomous University of Barcelona, and I am a member of the Digital Society Initiative at the University of Zurich.
 
 <div style="margin-top: 12px;"></div>
 
-My research follows three main lines. The first examines *how election outcomes shape democratic attitudes and behavior*, from the effect of new party entry on democratic engagement to the winner-loser gap in democratic attitudes among politicians, and the erosion of losers' consent under conditions of polarization. Second, I look at *the politics of digitalization*. With the DIGIPOL project, I have asked whether digital technological change creates a new axis of political conflict, and how political parties are choosing to address it. I have also investigated the effect of Voting Advice Applications on political preferences. Finally, I have a keen interest in *inter-regional conflict*.
+My research follows three main lines. The first examines how election outcomes shape democratic attitudes and behavior, with a particular focus on the conditions facilitating losers to consent to their defeat. Second, with DIGIPOL, I have explored the potential for political conflict of digital technological change. Finally, I have a keen interest in identities and representation, with a focus on inter-regional conflict and the formation of devolution preferences.
 
 <div style="margin-top: 12px;"></div>
 

@@ -11,19 +11,30 @@ nav_order: 2
 
 <div style="margin-top: 20px;"></div>
 
-&nbsp; <a id="losers-consent-anchor"></a>Le Corre Juratic, M. & **Canalejo-Molero, Á.** *When Losers Dissent: Affective Polarization and the Logic of Contestation* (Under review, *British Journal of Political Science*)
+<div style="margin-bottom: 1.5rem;">
+  <div><a id="losers-consent-anchor"></a>Le Corre Juratic, M. & Canalejo-Molero, Á. <em>When Losers Dissent: Affective Polarization and the Logic of Contestation</em></div>
+  <div style="font-size: 0.85em; color: var(--global-text-color-light); margin-top: 2px;">Under review, <em>British Journal of Political Science</em></div>
+</div>
 
-&nbsp; <a id="parl-entry-anchor"></a>**Canalejo-Molero, Á.** *Boost or Backlash? The Heterogeneous Effects of Parliamentary Representation on Satisfaction with Democracy* [[Preprint](https://osf.io/ekymh)]
+<div style="margin-bottom: 1.5rem;">
+  <div><a id="parl-entry-anchor"></a>Canalejo-Molero, Á. <em>Boost or Backlash? The Heterogeneous Effects of Parliamentary Representation on Satisfaction with Democracy</em></div>
+  <div style="font-size: 0.85em; color: var(--global-text-color-light); margin-top: 2px;">Preprint, <a href="https://osf.io/ekymh">OSF</a></div>
+</div>
 
-&nbsp; <a id="regional-anchor"></a>**Canalejo-Molero, Á.**, López Ortega, A. & Moreno-Torres, J. P. *A Theory of Relative State Devolution Preferences: Evidence and Implications* (Working paper available upon request)
+<div style="margin-bottom: 1.5rem;">
+  <div><a id="regional-anchor"></a>Canalejo-Molero, Á., López Ortega, A. & Moreno-Torres, J. P. <em>A Theory of Relative State Devolution Preferences: Evidence and Implications</em></div>
+  <div style="font-size: 0.85em; color: var(--global-text-color-light); margin-top: 2px;">Working paper available upon request</div>
+</div>
 
-&nbsp; <a id="depol-euandi-anchor"></a>Ferreira da Silva, F., **Canalejo-Molero, Á.**, Cicchi, L., Garzia, D., Reiljan, A. & Trechsel A. H. *Reducing Partisan Animosity with Voting Advice Applications (VAAs)* (Working paper available upon request)
+<div style="margin-bottom: 1.5rem;">
+  <div><a id="depol-euandi-anchor"></a>Ferreira da Silva, F., Canalejo-Molero, Á., Cicchi, L., Garzia, D., Reiljan, A. & Trechsel A. H. <em>Reducing Partisan Animosity with Voting Advice Applications (VAAs)</em></div>
+  <div style="font-size: 0.85em; color: var(--global-text-color-light); margin-top: 2px;">Working paper available upon request</div>
+</div>
 
-&nbsp; <a id="digipol-demand-anchor"></a>**Canalejo-Molero, Á.**, Bürgisser, R., van Ditmars, M. M. & Trechsel, A. H. *The Political Conflict Potential of Digitalization* (Working paper available upon request)
-
-&nbsp; **Canalejo-Molero, Á.** *Disruptive Elections and their Implications for Satisfaction with Democracy* (Working paper available upon request)
-
-&nbsp; <a id="new-party-anchor"></a>**Canalejo-Molero, Á.** *Does New Party Entry Increase Electoral Turnout? Quasi-Experimental Evidence from the 2015 Spanish Local Elections* (Working paper available upon request)
+<div style="margin-bottom: 1.5rem;">
+  <div><a id="digipol-demand-anchor"></a>Canalejo-Molero, Á., Bürgisser, R., van Ditmars, M. M. & Trechsel, A. H. <em>The Political Conflict Potential of Digitalization</em></div>
+  <div style="font-size: 0.85em; color: var(--global-text-color-light); margin-top: 2px;">Working paper available upon request</div>
+</div>
 
 <div style="margin-top: 40px;"></div>
 

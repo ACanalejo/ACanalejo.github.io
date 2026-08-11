@@ -35,6 +35,6 @@ My research follows three main lines. The first examines how election outcomes s
 
 <div style="margin-top: 12px;"></div>
 
-Feel free to [contact me](mailto:alvaro.canalejo@unilu.ch) for any inquiries about my research or for collaborations. Thanks for visiting!
+You can reach me at [alvaro.canalejo@unilu.ch](mailto:alvaro.canalejo@unilu.ch). Thanks for the visit!
 
 </div>

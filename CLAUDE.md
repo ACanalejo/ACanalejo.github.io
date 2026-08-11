@@ -23,8 +23,9 @@ At the time this file was last updated:
 - Position: Postdoctoral Researcher, University of Lucerne
 - Project: SNSF-funded DIGIPOL project
 - PhD: European University Institute, 2023
-- Research areas: comparative politics, electoral behavior, affective polarization,
-  politics of digitalization, Spanish regional identities
+- Research areas: how election outcomes shape democratic attitudes and behavior, the
+  politics of digitalization (via DIGIPOL), and inter-regional conflict / devolution
+  preferences
 
 ---
 
@@ -39,6 +40,49 @@ At the time this file was last updated:
 
 ---
 
+## Deployment — read this before assuming a push is "done"
+
+`.github/workflows/deploy.yml` builds the site and pushes `_site/` to the `gh-pages`
+branch (via `JamesIves/github-pages-deploy-action`), which is what GitHub Pages actually
+serves from. **A green checkmark on this workflow does not mean the live site updated.**
+This bit the user for an entire day of work in this repo's history — every commit deployed
+"successfully" while the live site kept serving a stale build. Two real causes, both fixed,
+both worth understanding so they don't recur:
+
+1. **Missing `.nojekyll`.** GitHub Pages re-runs its own Jekyll build on whatever the
+   source branch contains, unless a `.nojekyll` file tells it not to. `_config.yml` had
+   `.nojekyll` listed in `keep_files` for a long time, but the file never actually existed
+   in the repo, so it never made it into `_site`, so GitHub's own (silently failing)
+   rebuild kept serving an old cached version regardless of how many of *our* deploys
+   succeeded. Fixed by adding a root `.nojekyll` file and adding it to `_config.yml`'s
+   `include:` list (Jekyll excludes dotfiles by default unless explicitly included — just
+   having the file at the repo root isn't enough).
+2. **`purgecss` was corrupting the CSS.** The workflow used to run a "Purge unused CSS"
+   step after the Jekyll build, which reduced `main.css` from ~615KB to ~24KB in
+   production — stripping Bootstrap's `row-cols-*` grid utilities and most custom rules
+   (badges, card styling) along with it. This is why the live site could look badly broken
+   while `localhost:4000` looked fine: the local dev server never runs this step. The step
+   has been **removed**. If someone wants unused-CSS purging back, it needs a properly
+   scoped/tested config first — don't re-add the blind `purgecss -c purgecss.config.js`
+   invocation.
+
+**How to actually verify a deploy landed**, in order of reliability:
+1. Check the live site directly, not just localhost — `curl -sI https://acanalejo.github.io/ | grep -i last-modified` should show today's date after a deploy; if it's stale, something's wrong even if Actions is green.
+2. Compare `git show origin/gh-pages:index.html` against what you expect — confirms the branch content itself, independent of whether Pages is actually serving it.
+3. Open the live URL in a browser (not just curl) and visually check — CSS/JS issues like the purgecss one above are invisible to a plain HTML diff.
+
+**Two separate GitHub Actions workflows commonly get confused:**
+- `deploy.yml` — the one that matters for publishing. Check this one.
+- `broken-links.yml` / `broken-links-site.yml` (lychee link checker) — cosmetic, unrelated
+  to publishing, and **expected to show pre-existing failures**: dead links to old al-folio
+  template docs (`FAQ.md`, `INSTALL.md`, `CUSTOMIZE.md`) and files that don't exist because
+  dormant features were intentionally removed (`_posts`, `_news`, `_pages/projects.md`,
+  `_data/coauthors.yml`, `_data/repositories.yml`, `assets/json/resume.json`). A red X here
+  is not a deployment problem — don't chase it unless asked to clean up link-checker noise
+  specifically.
+
+---
+
 ## File Structure and Content Flow
 
 **Verify this section against the actual repo before acting on it** — pages may have been
@@ -48,19 +92,20 @@ added, removed, or restructured since this was written.
 
 | File | Live URL | Content source |
 |---|---|---|
-| `about.md` | `/` (Home) | Inline markdown — single integrated bio in a few paragraphs (no subsections/headings), heavily hyperlinked including inline links out to specific Publications/Work in Progress entries |
-| `publications.md` | `/publications/` | jekyll-scholar `{% bibliography %}` tags pulling from `_bibliography/papers.bib` |
-| `research.md` | `/research/` | Inline markdown, titled "Work in Progress" — working papers and ongoing (unpublished) projects only |
-| `research-grants.md` | `/research-grants/` | Inline markdown — grants/projects as PI vs. as non-PI |
-| `teaching.md` | `/teaching/` | Inline markdown — course listings with GitHub links, supervision counts, and a "Teaching Resources" section embedding the ShinyApps iframes (moved from the former `software.md`) |
-| `outreach.md` | `/outreach/` | Inline markdown — reverse-chronological media appearances |
-| `cv.md` | `/cv/` | Front matter only (`cv_pdf:` URL); rendered by `_layouts/cv.liquid` from `_data/cv.yml` — shows an inline PDF embed plus a download button |
+| `about.md` | `/` (Home) | Inline markdown — single integrated bio in a few short paragraphs (no subsections/headings). **Deliberate exception to the "heavy hyperlinks" style rule below**: the bio body is link-free except the "Contact me" mailto link — the user explicitly asked for links to be stripped out here, so don't "fix" it by re-adding them. The affiliation line in the page's `subtitle:` front matter keeps its own link. |
+| `publications.md` | `/publications/` | jekyll-scholar `{% bibliography %}` tags pulling from `_bibliography/papers.bib`, split into "Peer-Reviewed Publications" and "Other Publications" sections. **Must be wrapped in `<div class="publications" markdown="1">...</div>`** — see the Design System section below, this isn't optional |
+| `research.md` | `/research/` | Inline markdown, titled **"Ongoing Work"** (not "Work in Progress" — renamed) — "Working Papers" (status shown as a small line below each citation: under review / preprint / available on request) and "In Preparation" sections only. No "Shelved" section currently (removed by request; re-add only if asked) |
+| `research-grants.md` | `/research-grants/` | Inline markdown — "As (Co-)Principal Investigator" and "As Non-PI" sections. PI entries use a custom two-line block (title/amount, then a smaller description line below) rather than plain bullets |
+| `teaching.md` | `/teaching/` | Inline markdown. Order: "Courses" (intro text, then a `.projects`-wrapped card grid — one card per course via the `_projects` collection, `category: courses`), "Interactive Materials" (renamed from "Teaching Resources" — the two ShinyApps, also `.projects`-wrapped cards, `category: teaching`), then "Supervision" last |
+| `outreach.md` | `/outreach/` | Inline markdown — reverse-chronological media appearances, each with a `.badge-tinted` outlet tag |
+| `cv.md` | `/cv/` | Front matter only (`cv_pdf:` URL); rendered by `_layouts/cv.liquid` from `_data/cv.yml` — shows a Download button plus an inline PDF embed, no duplicate heading |
 | `dropdown.md` | (navbar) | Front matter only — defines the navbar dropdown and its child links |
 | `blog.md` | `/blog/` | Layout wrapper — lists `_posts/`; currently empty (no posts exist) |
 | `404.md` | `/404.html` | Static error page |
 
-Navbar order: Publications, Work in Progress, Research Grants, Outreach, Teaching, CV.
-There is no standalone Software page — its two ShinyApps iframes now live under Teaching.
+Navbar order: Publications, Ongoing Work, Research Grants, Outreach, Teaching, CV.
+There is no standalone Software page — its two ShinyApps apps now live under Teaching as
+"Interactive Materials" cards (in the `_projects/` collection, not hardcoded iframes).
 
 If a page has been added or removed since this was written, update this table.
 
@@ -70,8 +115,12 @@ If a page has been added or removed since this was written, update this table.
 |---|---|
 | `socials.yml` | Social profile links rendered in the footer/about page |
 | `cv.yml` | CV page content — a single PDF entry pointing to the locally hosted `assets/pdf/long_cv_canalejo.pdf` (manually synced from the Quarto CV project; GitHub raw URLs force a download instead of rendering inline, so keep this local) |
-| `venues.yml` | Background colors for journal-abbreviation badges on the Publications page (`_layouts/bib.liquid` reads `site.data.venues[entry.abbr].color`) — add an entry here whenever a new journal abbreviation is used in `_bibliography/papers.bib`, or its badge renders invisible (white text, no background) |
-| `outlets.yml` | Background colors for the outlet tag badges on `_pages/outreach.md` — add an entry whenever a new outlet is added |
+
+There used to be `venues.yml` / `outlets.yml` / `course_levels.yml` for per-entry badge
+colors — **deleted**. All badges (journal abbreviations, outlet tags, course levels) now
+share one look via the `.badge-tinted` CSS class instead of per-entry hex colors. Don't
+recreate these files; if a badge needs to stand out, that's a CSS/design decision, not a
+data-file one — see Design System below.
 
 ### Key `_config.yml` settings to know
 
@@ -80,6 +129,18 @@ If a page has been added or removed since this was written, update this table.
 - `announcements: enabled` — controls whether `_news/` items appear on the home page
 - `latest_posts: enabled` — controls whether recent blog posts appear on the home page
 - `bib_search: true` — bibliography search on the Publications page, now enabled
+- `enable_tooltips: true` — auto-generated heading permalink tooltips, now enabled
+- `enable_navbar_social` — **leave `false`**. Looks like it adds social icons to the
+  navbar; it actually *replaces* the name-brand text with icons, and only on the home
+  page (`_includes/header.liquid` line ~23). Not a genuine addition, don't enable it
+  expecting icons to appear alongside the name.
+- `third_party_libraries.google_fonts.url.fonts` — loads `Source Serif 4` (headings) and
+  `Inter` (body). These are actually wired up via CSS now (see Design System) — previously
+  this loaded Roboto/Roboto Slab but no CSS anywhere referenced them, so don't assume a
+  font listed here is actually in use; always check `_sass/_base.scss` for the real
+  `font-family` rule
+- `include: ["_pages", ".nojekyll"]` — **do not remove `.nojekyll` from this list.** See
+  Deployment below; without it the site silently fails to update in production
 - `display_tags` / `display_categories` — blog taxonomy labels; populate when starting a blog
 
 ### Assets (`assets/`)
@@ -124,6 +185,45 @@ The `news` collection is already defined in `_config.yml`.
 
 ---
 
+## Design System
+
+The site got a visual pass this session (typography, badge colors, card polish). Key
+pieces, so future changes stay consistent instead of drifting back to al-folio defaults:
+
+- **Fonts:** `Source Serif 4` for headings (`h1, h2, h3, .post-title, .card-title,
+  h2.bibliography, .navbar-brand.title`), `Inter` for body text — rules live in
+  `_sass/_base.scss` near the top. Heading sizes were deliberately tuned down from
+  Bootstrap defaults after the serif swap read as too large (`.post-title: 1.9rem`,
+  `h2: 1.5rem`, `h3`/`.card-title: 1.15rem`, `.navbar-brand.title: 1.05rem` — the last one
+  specifically to stop the navbar name wrapping the nav links onto two lines).
+- **Badges:** one shared `.badge-tinted` class (tinted background + accent border/text,
+  using `--global-theme-color` / `--global-theme-tint`) for journal abbreviations
+  (Publications), outlet tags (Outreach), and course levels (Teaching). `--global-theme-tint`
+  is defined per-theme (light/dark) in `_sass/_themes.scss`, same pattern as every other
+  color token there — add new tokens there, not as one-off inline styles.
+- **The `.publications` / `.projects` wrapper-class gotcha:** al-folio's bibliography and
+  project-card CSS (list-marker removal, badge spacing, card hover, heading sizing) is
+  scoped under `.publications { ... }` and `.projects { ... }` respectively in
+  `_sass/_base.scss`. These classes only get added automatically by layouts we don't use
+  (`related_publications` for citing papers in a blog post; a full projects listing page).
+  **Any custom page that renders bibliography entries or project cards must manually wrap
+  that content in `<div class="publications" markdown="1">...</div>` or `<div
+  class="projects">...</div>`.** Forgetting this is exactly what made Publications and
+  Teaching look "flat" and broken (invisible badges, browser-default numbered list, no
+  card spacing) for most of this session before it was diagnosed — the CSS was never the
+  problem, the missing wrapper class was.
+- **Card hover:** `.projects .card.hoverable:hover` gets a lift + shadow. Reuse this for
+  any future clickable card rather than inventing a new hover treatment.
+- **Never italicize text inside a hyperlink** — see the Emphasis bullet below, same root
+  cause class of bug as the wrapper-class issue: a global rule silently overriding
+  something that looks fine in isolation.
+- If proposing visual changes again, the pattern that worked well: build a static HTML
+  comparison artifact (not live files) showing 2-3 concrete options per area, grounded in
+  real site content rather than lorem ipsum, and let the user pick before touching any repo
+  file. See this session's `design-options.html` approach if useful as a template.
+
+---
+
 ## Writing Style and Tone
 
 Match this style when drafting or editing content. If existing pages have drifted from
@@ -163,6 +263,13 @@ These rules apply to every session. Follow them without being asked.
    "go ahead", "commit it", or similar
 4. **Never push without a separate explicit push instruction** — approval to commit is
    not approval to push
+
+### After pushing
+
+- Don't consider the work done just because the push succeeded or the `deploy.yml` Action
+  went green — see the Deployment section above. Check the actual live site (curl or
+  browser) before telling the user their changes are live, especially for anything CSS/JS
+  related, since a broken build can still report "Success."
 
 ### Before any deletion or structural change
 

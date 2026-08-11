@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: Postdoctoral Researcher, <a href='https://www.unilu.ch/en/'>University of Lucerne</a>.
+subtitle: Postdoctoral Researcher, <a href='https://www.unilu.ch/en/'>University of Lucerne</a>
 
 profile:
   align: right

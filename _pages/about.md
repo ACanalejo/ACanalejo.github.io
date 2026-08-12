@@ -23,7 +23,7 @@ social: true # includes social icons at the bottom of the page
 
 <div markdown="1" style="text-align: justify;">
 
-I am a political scientist from Córdoba, Spain, studying the foundations of political attitudes and behavior. I currently work as a Postdoctoral Researcher at the Chair of Political Behaviour and Communication of the University of Lucerne, and as part of the SNSF-funded project DIGIPOL. My research has been published in the *European Journal of Political Research*, *Research & Politics*, and the *European Political Science Review*.
+I am a political scientist from Córdoba, Spain, studying the drivers of political attitudes and behavior. I currently work as a Postdoctoral Researcher at the Chair of Political Behaviour and Communication of the University of Lucerne, and at the SNSF-funded project DIGIPOL. My research has been published in the *European Journal of Political Research*, *Research & Politics*, and the *European Political Science Review*.
 
 <div style="margin-top: 12px;"></div>
 
@@ -31,7 +31,7 @@ Before joining the University of Lucerne, I completed a PhD in Political and Soc
 
 <div style="margin-top: 12px;"></div>
 
-My research spans three main topics. The first is how election outcomes shape democratic attitudes and behavior, with a particular focus on the conditions weakening losers' consent to electoral defeat. Second, with DIGIPOL, I have explored the potential for political conflict of digital technological change. Finally, I have a keen interest in identities and representation, with a focus on inter-regional conflict and the formation of devolution preferences.
+My research spans three main strands. The first is how election outcomes shape democratic attitudes and behavior, with a particular focus on the conditions weakening losers' consent to electoral defeat. Second, with DIGIPOL, I have explored the potential for political conflict of digital technological change. Finally, I have a keen interest in identities and representation, with a focus on inter-regional conflict and the formation of devolution preferences.
 
 <div style="margin-top: 12px;"></div>
 

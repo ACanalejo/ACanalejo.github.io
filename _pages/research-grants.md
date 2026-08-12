@@ -12,22 +12,22 @@ nav_order: 3
 <div style="margin-top: 20px;"></div>
 
 <div style="margin-bottom: 1.5rem;">
-  <div>UniLu FoKo Preparatory Funding (<strong>22,330 CHF ≈ 24,153€</strong>), with Alexander H. Trechsel (2026)</div>
+  <div>UniLu FoKo Preparatory Funding (22,330 CHF ≈ <strong>24,153€</strong>), with Alexander H. Trechsel (2026)</div>
   <div style="font-size: 0.85em; color: var(--global-text-color-light); margin-top: 2px;">Preparatory funding for a project proposal on political socialization and school-based interventions to increase democratic engagement in Switzerland.</div>
 </div>
 
 <div style="margin-bottom: 1.5rem;">
-  <div>UniLu FaFoFö Funding (<strong>2,000 CHF ≈ 2,142€</strong>) (2025)</div>
+  <div>UniLu FaFoFö Funding (2,000 CHF ≈ <strong>2,142€</strong>) (2025)</div>
   <div style="font-size: 0.85em; color: var(--global-text-color-light); margin-top: 2px;">Survey experiment on the formation of devolution preferences in Italy.</div>
 </div>
 
 <div style="margin-bottom: 1.5rem;">
-  <div>Small Grant Aarhus University (<strong>35,000 DKK ≈ 4,686€</strong>), with Morgan Le Corre Juratic (2024)</div>
+  <div>Small Grant Aarhus University (35,000 DKK ≈ <strong>4,686€</strong>), with Morgan Le Corre Juratic (2024)</div>
   <div style="font-size: 0.85em; color: var(--global-text-color-light); margin-top: 2px;">Data collection on the consequences of losing against a highly disliked party in Austria.</div>
 </div>
 
 <div style="margin-bottom: 1.5rem;">
-  <div>UniLu FoKo Project Funding (<strong>12,231 CHF ≈ 13,101€</strong>), with Alberto López Ortega and Javier Padilla Moreno-Torres (2023)</div>
+  <div>UniLu FoKo Project Funding (12,231 CHF ≈ <strong>13,101€</strong>), with Alberto López Ortega and Javier Padilla Moreno-Torres (2023)</div>
   <div style="font-size: 0.85em; color: var(--global-text-color-light); margin-top: 2px;">Data collection on the formation of regional devolution preferences in Spain.</div>
 </div>
 

@@ -12,7 +12,7 @@ nav_order: 2
 <div style="margin-top: 20px;"></div>
 
 <div style="margin-bottom: 1.5rem;">
-  <div><a id="losers-consent-anchor"></a>Le Corre Juratic, M. & Canalejo-Molero, Á. <em>When Losers Dissent: Affective Polarization and the Logic of Contestation</em></div>
+  <div><a id="losers-consent-anchor"></a>Canalejo-Molero, Á. & Le Corre Juratic, M. <em>When Losers Dissent: Affective Polarization and the Logic of Contestation</em></div>
   <div style="font-size: 0.85em; color: var(--global-text-color-light); margin-top: 2px;">Under review, <em>British Journal of Political Science</em></div>
 </div>
 

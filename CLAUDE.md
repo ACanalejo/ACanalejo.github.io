@@ -20,12 +20,22 @@ details.** If you update biographical content anywhere, update this file too to 
 current.
 
 At the time this file was last updated:
-- Position: Postdoctoral Researcher, University of Lucerne
-- Project: SNSF-funded DIGIPOL project
+- Position: Postdoctoral Researcher, Institute of Public Goods and Policies (IPP-CSIC),
+  Madrid (moved here in 2026 from the University of Lucerne)
+- Project: CONSENT, an ERC Consolidator Grant on losers' consent to electoral outcomes —
+  what it means, what explains it, and its consequences. He is a Postdoctoral Researcher on
+  it (not PI), from September 2026. No public project URL on file yet — ask before
+  hyperlinking it
+- Email: alvaro.canalejo@cchs.csic.es (old `@unilu.ch` address is retired — if you find it
+  anywhere, it's a leftover to fix)
+- Prior: Postdoctoral Researcher at the Chair of Political Behaviour and Communication,
+  University of Lucerne, on the SNSF-funded DIGIPOL project. Lucerne references that are
+  *historical* (grants received there, theses supervised there, DIGIPOL papers) stay as-is
 - PhD: European University Institute, 2023
-- Research areas: how election outcomes shape democratic attitudes and behavior, the
-  politics of digitalization (via DIGIPOL), and inter-regional conflict / devolution
-  preferences
+- Research areas: framed as the **determinants** of political attitudes and behavior (not
+  "drivers" — the user asked for this wording specifically): how election outcomes shape
+  democratic attitudes and behavior, the politics of digitalization (via DIGIPOL), and
+  inter-regional conflict / devolution preferences
 
 ---
 

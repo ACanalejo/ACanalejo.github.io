@@ -42,7 +42,9 @@ nav_order: 3
 
 <div style="margin-top: 20px;"></div>
 
-- [DIGIPOL](https://www.unilu.ch/en/faculties/faculty-of-humanities-and-social-sciences/institutes-departements-and-research-centres/department-of-political-science/research/digitalization-and-political-conflict-parties-voters-and-electoral-alignment-digipol/) — **Scientific Coordinator** (June 2023 – September 2026), team member since 2022. [SNSF](https://www.snf.ch/en)-funded project to study the early politicization, or lack thereof, of digitalization issues from both the demand and supply sides, with a specific focus on Switzerland.
+- [CONSENT](https://cordis.europa.eu/project/id/101170551) — **Postdoctoral Researcher** (September 2026 – present). [ERC](https://erc.europa.eu/) Consolidator Grant studying losers' consent to electoral outcomes: what it means, what explains it, and what its consequences are.
+
+- [DIGIPOL](https://www.unilu.ch/en/faculties/faculty-of-humanities-and-social-sciences/institutes-departements-and-research-centres/department-of-political-science/research/digitalization-and-political-conflict-parties-voters-and-electoral-alignment-digipol/) — **Scientific Coordinator** (June 2023 – August 2026), team member since 2022. [SNSF](https://www.snf.ch/en)-funded project to study the early politicization, or lack thereof, of digitalization issues from both the demand and supply sides, with a specific focus on Switzerland.
 
 - [EU&I 2024](https://euandi.eu/en/about/overview.html) — **Scientific Committee member** (December 2023 – July 2024). EUI-based project that developed a cross-national Voting Advice Application for the 2024 European Parliament Election, reaching almost 2 million users; produced party- and user-level data and experimental results.
 

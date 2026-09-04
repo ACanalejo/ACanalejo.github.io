@@ -31,7 +31,7 @@ Before joining IPP-CSIC, I held positions as a Postdoctoral Researcher at the Un
 
 <div style="margin-top: 12px;"></div>
 
-My research spans three main strands. The first is how election outcomes shape democratic attitudes and behavior, with a particular focus on the conditions weakening losers' consent to electoral defeat. Second, I am interested in the potential for political conflict of digital technological change. Finally, I have a keen interest in identities and representation, with a focus on inter-regional conflict and the formation of devolution preferences.
+My research spans three main strands. The first is how election outcomes shape democratic attitudes and behavior, with a particular focus on the conditions weakening losers' consent to electoral defeat. The second are the consequences of digital technological change for political conflict. Finally, I have a keen interest in the interplay of multiple identities for political identification and representation.
 
 <div style="margin-top: 12px;"></div>
 

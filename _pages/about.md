@@ -35,6 +35,6 @@ My research spans three main strands. The first is how election outcomes shape d
 
 <div style="margin-top: 12px;"></div>
 
-You can reach me at [alvaro.canalejo@cchs.csic.es](mailto:alvaro.canalejo@cchs.csic.es). Thanks for the visit!
+You can reach me at [alvaro.canalejo@csic.es](mailto:alvaro.canalejo@csic.es). Thanks for the visit!
 
 </div>

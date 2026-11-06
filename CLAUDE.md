@@ -26,8 +26,8 @@ At the time this file was last updated:
   what it means, what explains it, and its consequences. He is a Postdoctoral Researcher on
   it (not PI), from September 2026. No public project URL on file yet — ask before
   hyperlinking it
-- Email: alvaro.canalejo@cchs.csic.es (old `@unilu.ch` address is retired — if you find it
-  anywhere, it's a leftover to fix)
+- Email: alvaro.canalejo@csic.es (old `@unilu.ch` and `@cchs.csic.es` addresses are retired —
+  if you find them anywhere, they're leftovers to fix)
 - Prior: Postdoctoral Researcher at the Chair of Political Behaviour and Communication,
   University of Lucerne, on the SNSF-funded DIGIPOL project. Lucerne references that are
   *historical* (grants received there, theses supervised there, DIGIPOL papers) stay as-is
